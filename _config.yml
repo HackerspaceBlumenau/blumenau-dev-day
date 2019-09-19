@@ -10,74 +10,74 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "GDG DevFest Season 2014"
-email: "devfest@gdg.org.ua"
-description: "GDG DevFest is a set of events all around the world"
-baseurl: "/zeppelin"
-url: "https://gdg-x.github.io"
+title: "Blumenau Dev Day 2019"
+email: "hackerspaceblumenau@gmail.com"
+description: "Evento para reunir todas as comunidades de Blumenau SC"
+baseurl: "/blumenau-dev-day"
+url: "http://www.hackerspaceblumenau.org"
 permalink: "/blog/:title"
-googleAnalyticsTrackingId: "UA-43643469-5"
-googleAnalyticsSiteUrl: "gdg-x.github.io"
-siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
+googleAnalyticsTrackingId: "UA-91819658-1"
+googleAnalyticsSiteUrl: "http://www.hackerspaceblumenau.org/"
+siteVerification: "d8bf6da5-4361-467a-a782-eab138c47b60"
 
 # Organizer Info
-organizerName: "GDG Lviv"
-organizerAlternateName: "Google Developer Group Lviv"
-organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
-organizerEmail: "lviv@gdg.org.ua"
-organizerLogo: "/img/seo/organizer-logo.png"
-organizerLink: "http://lviv.gdg.org.ua/"
+organizerName: "Hackerspace Blumenau"
+organizerAlternateName: "Hackerspace Blumenau"
+organizerDescription: "O Hackerspace Blumenau visa ser um espaço comunitário, aberto e colaborativo com disponibilização de uma infraestrutura para realização de encontros, eventos, oficinas e projetos em diversas áreas relacionadas a tecnologia, visando sempre a troca de conhecimento."
+organizerEmail: "hackerspaceblumenau@gmail.com"
+organizerLogo: "/img/hackerspaceblumenau.png"
+organizerLink: "http://www.hackerspaceblumenau.org/"
 
 # Head
-metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, lviv"
-twitterAccount: "@DevFest"
-socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
-socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
-socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
+metaKeywords: "Blumenau, dev, programming, developers"
+twitterAccount: "@hackerspacebnu"
+socialImageSrcGooglePlus: "/img/hackerspaceblumenau.png"
+socialImageSrcTwitter: "/img/hackerspaceblumenau.png"
+socialImageSrcFacebook: "/img/hackerspaceblumenau.png"
 
 # Documents
-c4pUrl: "https://bit.ly/dfua-c4p"
-c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
+# c4pUrl: "https://bit.ly/dfua-c4p"
+# c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 
 
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/blog/", text: "Blog"}
- - {permalink: "/schedule/", text: "Schedule"}
+ - {permalink: "/schedule/", text: "Programação"}
  - {permalink: "/speakers/", text: "Speakers"}
- - {permalink: "/team/", text: "Team"}
- - {permalink: "/logistics/", text: "Logistics"}
- - {permalink: "/hackathon/", text: "Hackathon"}
-bottomNavigationLinks:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
-rightNavigationButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {permalink: "/team/", text: "Organizadores"}
+# - {permalink: "/logistics/", text: "Logistics"}
+# - {permalink: "/hackathon/", text: "Hackathon"}
+# bottomNavigationLinks:
+#  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+# rightNavigationButtons:
+#  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "GDG DevFest <typeout> 2014"
-eventDate: "September - November, 2014"
-typeoutTextValues: '"", "Season", "Ukraine", "Germany", "USA"'
-typeoutFallback: "Season"
-heroButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
- - {permalink: "/#tickets", text: "Buy tickets"}
+heroTitle: "Blumenau Dev Day - <typeout>"
+eventDate: "7 de Dezembro 2019"
+typeoutTextValues: '"", "Agile Beer", "AWS", "BlumenauJS", "Code Like Tester", "DotNetCoders", "GruPy", "LKCamp", "Meninas Digitas", "Wordpress", "Build Better Together"'
+typeoutFallback: ""
+# heroButtons:
+# - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+# - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
-aboutTitle: "About GDG DevFest"
+aboutTitle: "Sobre Blumenau Dev Day"
 aboutBlock:
- - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
- - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
- - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
+ - {title: "Palestras", image: "conference.jpg", text: "Palestras sobre linguagens, frameworks, metodologias e muito mais." }
+ - {title: "Lightning Talks", image: "lightningtalks.png", text: "Lightning Talks, palestras mais rápidas sobre tecnologia e agile." }
+ - {title: "Comunidades", image: "workshop.jpg", text: "Todas as comunidades de Blumenau reunidas para promover networking e conhecimento." }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "350", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
- - {count: "48", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
- - {count: "20", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
- - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
+# - {count: "350", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
+ - {count: "8", specialCharacter: "+", info: "horas", detail: "de palestras e conteúdo"}
+ - {count: "9", specialCharacter: "+", info: "palestrantes", detail: "de Blumenau e além"}
+ - {count: "9", specialCharacter: "", info: "comunidades", detail: "da região"}
 
 # Latest News Block
 latestNewsTitle: "Latest news"
@@ -89,17 +89,17 @@ rockstarSpeakersTitle: "Rockstar speakers"
 rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
-locationBlockTitle: "Location"
-eventLocationName: "Conference Hall"
-eventLocationLink: "http://cabinet.kinopalace.lviv.ua/showtimes/"
-eventStreetAddress: "22 Teatral'na St"
-eventAddressLocality: "Lviv"
-eventAddressLocalityRegion: "Lvivska"
-eventPostalCode: "79000"
-eventAddressCountry: "Ukraine"
-eventStartTime: "2014-10-25T10:00"
+locationBlockTitle: "Local"
+eventLocationName: "FURB - Universidade Regional de Blumenau"
+eventLocationLink: "http://www.furb.br"
+eventStreetAddress: "Rua Antônio da Veiga, 140"
+eventAddressLocality: "Victor Konder"
+eventAddressLocalityRegion: "Blumenau"
+eventPostalCode: "89035-205"
+eventAddressCountry: "Brasil"
+eventStartTime: "2019-12-09T09:00"
 eventDoorTime: "09:00"
-eventEndTime: "2014-10-25T20:00"
+eventEndTime: "2019-12-09T20:00"
 eventPlaceCoordinates: "49.843237, 24.028751"
 mapCenterCoordinates: "49.842537, 24.025701"
 mapMobileCenterCoordinates: "49.841620, 24.029411"
@@ -116,19 +116,19 @@ venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio syste
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "What's Up?"
-twitterHashTag: "devfest"
-twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
+twitterHashTag: "blumenaudevday"
+twitterFeed: "https://twitter.com/search?q=%23blumenaudevday&src=typed_query"
 
 # Partners Block
-organizersTitle: "Organizers"
-partnersTitle: "Partners"
-partnersC4sponsorsButton: "Become a sponsor"
+organizersTitle: "Organizadores"
+partnersTitle: "Parceiros"
+partnersC4sponsorsButton: "Apoie este evento"
 
 # Subscribe Block
 subscribeImage: "subscribe.jpg"
-subscribeTitle: "Subscribe for updates"
-subscribeAction: "https://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
-subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
+subscribeTitle: "Fique por dentro!"
+subscribeAction: "mailto:hackerspaceblumenau@gmail.com"
+subscribeInfo: "As inscrições estarão abertas no final de Novembro. O número de ingressos é limitado. Fique ligado"
 
 # Tickets Block
 ticketsTitle: "Pricetable"
@@ -174,36 +174,35 @@ ticketsOffers:
 
 # Footer
 socialLinks:
- - {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
- - {link: "https://twitter.com/intent/user?screen_name=GDGLviv", icon: "twitter"}
- - {link: "https://facebook.com/GDGLviv", icon: "facebook"}
+ - {link: "https://hackerspaceblumenau.slack.com/", icon: "slack"}
+ - {link: "https://twitter.com/hackerspacebnu", icon: "twitter"}
+ - {link: "https://facebook.com/hackerspace.blumenau", icon: "facebook"}
  - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "http://gdg.org.ua", text: "GDG.org.ua"}
-   - {link: "https://developers.google.com", text: "Google Developers"}
+   - {link: "http://www.hackerspaceblumenau.org", text: "Hackerspace Blumenau"}
  -
-  title: "Contacts"
+  title: "Contatos"
   links:
-   - {link: "mailto:lviv@gdg.org.ua", text: "lviv@gdg.org.ua"}
+   - {link: "mailto:hackerspaceblumenau@gmail.com", text: "hackerspaceblumenau@gmail.com"}
  -
   title: "FAQ"
   links:
-   - {permalink: "/cod/", text: "Code of Conduct"}
+    #  - {permalink: "/cod/", text: "Code of Conduct"}
 
 # Blog
 blogTitle: "Latest news"
 blogCommentsEnabled: true
-discusShortName: "devfestua"
+discusShortName: "blumenaudevday"
 
 # Speakers List Block
 showSessions: true
 
 # Team Block
-teamBlockTitle: "About us"
-aboutUs: "Google's services have become synonymous with simple things online. Number of technological innovations and IT industries in which Google is creating new products is enormous. It's hard to get to know all of them, but realistic. This is why people have started to gather in small local groups and share their experience. Later, the following groups have been called Google Developer Groups. GDGs can take many forms -- from just a few people getting together to watch some videos, to large gatherings with demos, tech talks, hackathons and conferences."
+teamBlockTitle: "Sobre nós"
+aboutUs: "O Hackerspace Blumenau visa ser um espaço comunitário, aberto e colaborativo com disponibilização de uma infraestrutura para realização de encontros, eventos, oficinas e projetos em diversas áreas relacionadas a tecnologia, visando sempre a troca de conhecimento. O espaço é aberto a comunidade, sendo assim todos podem participar."
 
 # Logistics Find Way Block
 findWayTitle: "Find your way here"

@@ -8,7 +8,7 @@
     - {name: "Agile Beer", description: "Hey Agile Beer Blumenau! SOMOS MIL!", link: "https://www.meetup.com/Agile-Beer-Blumenau/", imageUrl: "agilebeerblumenau.jpeg"}
     - {name: "AWS User Group", description: "Grupo de usuários da AWS (Amazon Web Services) Blumenau.", link: "https://www.meetup.com/aws-usergroup-blumenau/", imageUrl: "awsusergroup.png"}
     - {name: "BlumenauJS", description: "Blumenau JS é uma comunidade de usuários da linguagem e do ecossistema Java Script de Blumenau - Santa Catarina.", link: "https://chat.whatsapp.com/Hrkg8Uu8lBnC2Ix77XvEik", imageUrl: "blumenaujs.jpg"}
-    - {name: "Code Like Tester", description: "", link: "#", imageUrl: "codeliketester.jpg"}
+    - {name: "Code Like a Tester", description: "Comunidade focada em compartilhar conhecimento em qualidade e teste de software na região de Blumenau/SC.", link: "https://www.linkedin.com/company/code-like-a-tester/", imageUvl: "codeliketester.jpg"}
     - {name: "DotNetCoders", description: "", link: "#", imageUrl: "dotnetcoders.png"}
     - {name: "GruPy Blumenau", description: "Grupy Blumenau é uma comunidade de usuários da linguagem e do ecossistema Python em Blumenau, Santa Catarina.", link: "https://blumenau.sc.python.org.br/", imageUrl: "grupyblumenau.png"}
     - {name: "LKCamp", description: "LKCAMP is a Linux Kernel study group open for everyone to participate.", link: "https://lkcamp.gitlab.io/", imageUrl: "lkcamp.png"}

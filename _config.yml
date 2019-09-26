@@ -19,6 +19,7 @@ permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-91819658-1"
 googleAnalyticsSiteUrl: "http://www.hackerspaceblumenau.org/"
 siteVerification: "d8bf6da5-4361-467a-a782-eab138c47b60"
+googleAPIKey: "AIzaSyDcQf1AqXxyAzbWhsTtKJ09uerJuAygA4Y"
 
 # Organizer Info
 organizerName: "Hackerspace Blumenau"

@@ -58,7 +58,7 @@ navigationLinks:
 heroImage: "hero.jpg"
 heroTitle: "Blumenau Dev Day - <typeout>"
 eventDate: "7 de Dezembro 2019"
-typeoutTextValues: '"", "Agile Beer", "AWS User Group", "BlumenauJS", "Code Like a Tester", "DotNetCoders", "GruPy", "LKCamp", "Meninas Digitas", "Wordpress", "Hackerspace Blumenau", "Build Better Together"'
+typeoutTextValues: '"", "Agile Beer", "AWS User Group", "BlumenauJS", "Code Like a Tester", "DotNetCoders", "GruPy", "LKCamp", "Meninas Digitas", "Mulheres de Produto", "Wordpress", "Hackerspace Blumenau", "Build Better Together"'
 typeoutFallback: ""
 # heroButtons:
 # - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}

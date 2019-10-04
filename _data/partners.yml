@@ -1,4 +1,5 @@
-- 
+-
   group: "Apoio"
-  elements: 
+  elements:
     - {name: "FURB", description: "Universidade Regional de Blumenau", link: "http://www.furb.br/", imageUrl: "furb.png"}
+    - {name: "AMcom", description: "Experiência em tecnologia para entregar soluções aos negócios.", link: "https://amcom.com.br/", imageUrl: "amcom.png"}

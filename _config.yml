@@ -37,7 +37,7 @@ socialImageSrcTwitter: "/img/hackerspaceblumenau.png"
 socialImageSrcFacebook: "/img/hackerspaceblumenau.png"
 
 # Documents
-# c4pUrl: "https://bit.ly/dfua-c4p"
+# c4pUrl: "https://forms.gle/Tf6v4FQJJyN369Gj9"
 # c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 
 
@@ -50,19 +50,19 @@ navigationLinks:
 # - {permalink: "/team/", text: "Organizadores"}
 # - {permalink: "/logistics/", text: "Logistics"}
 # - {permalink: "/hackathon/", text: "Hackathon"}
-# bottomNavigationLinks:
-#  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
-# rightNavigationButtons:
-#  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+bottomNavigationLinks:
+  - {link: "https://forms.gle/Tf6v4FQJJyN369Gj9", text: "Apoie este evento"}
+rightNavigationButtons:
+  - {link: "https://forms.gle/Tf6v4FQJJyN369Gj9", text: "Apoie este evento"}
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "Blumenau Dev Day - <typeout>"
+heroTitle: "Blumenau Dev Day <typeout>"
 eventDate: "7 de Dezembro 2019"
 typeoutTextValues: '"", "Agile Beer", "AWS User Group", "BlumenauJS", "Code Like a Tester", "DotNetCoders", "GruPy", "LKCamp", "Meninas Digitas", "Mulheres de Produto", "Wordpress", "Hackerspace Blumenau", "Build Better Together"'
 typeoutFallback: ""
-# heroButtons:
-# - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+heroButtons:
+ - {link: "https://forms.gle/Tf6v4FQJJyN369Gj9", text: "Apoie este evento"}
 # - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
@@ -124,6 +124,7 @@ twitterFeed: "https://twitter.com/search?q=%23blumenaudevday&src=typed_query"
 organizersTitle: "Organizadores"
 partnersTitle: "Parceiros"
 partnersC4sponsorsButton: "Apoie este evento"
+c4sponsorsUrl: "https://forms.gle/Tf6v4FQJJyN369Gj9"
 
 # Subscribe Block
 subscribeImage: "subscribe.jpg"

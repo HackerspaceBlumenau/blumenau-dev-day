@@ -36,3 +36,12 @@
   language: pt-br
   complexity: ""
   video: ""
+-
+  id: 002
+  title: "QA Ágil - Como ser um Jedi na sua Squad"
+  description: "Um overview do cotidiano de QA's dentro de ambiente ágil."
+  subtype: presentation
+  speakers: [1]
+  language: pt-br
+  #  complexity: ""
+  #  video: ""

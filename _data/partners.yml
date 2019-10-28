@@ -4,3 +4,5 @@
     - {name: "FURB", description: "Universidade Regional de Blumenau", link: "http://www.furb.br/", imageUrl: "furb.png"}
     - {name: "AMcom", description: "Experiência em tecnologia para entregar soluções aos negócios.", link: "https://amcom.com.br/", imageUrl: "amcom.png"}
     - {name: "HBSIS | ambev", description: "HBSIS | Soluções de tecnologia que transformam", link: "https://hbsis.com.br/", imageUrl: "HBSIS_Ambev.png"}
+    - {name: "Movidesk", description: "Tornamos o seu atendimento imbatível", link: "https://www.movidesk.com/", imageUrl: "movidesk.png"}
+    - {name: "PagueVeloz", description: "Você recebe de seus clientes e paga suas contas em um só lugar. Rápido, fácil e eficiente!", link: "https://www.pagueveloz.com.br/", imageUrl: "pagueveloz.png"}

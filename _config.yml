@@ -59,7 +59,7 @@ rightNavigationButtons:
 heroImage: "hero.jpg"
 heroTitle: "Blumenau Dev Day <typeout>"
 eventDate: "7 de Dezembro 2019"
-typeoutTextValues: '"", "Agile Beer", "AWS User Group", "BlumenauJS", "Code Like a Tester", "DotNetCoders", "GruPy", "LKCamp", "Meninas Digitas", "Mulheres de Produto", "Wordpress", "Hackerspace Blumenau", "Build Better Together"'
+typeoutTextValues: '"", "Agile Beer", "AWS User Group", "BlumenauJS", "Code Like a Tester", "DotNetCoders", "GruPy", "IXDA Blumenau", "LKCamp", "Meninas Digitas", "Mulheres de Produto", "Wordpress", "Hackerspace Blumenau", "Build Better Together"'
 typeoutFallback: ""
 heroButtons:
  - {link: "https://forms.gle/Tf6v4FQJJyN369Gj9", text: "Apoie este evento"}

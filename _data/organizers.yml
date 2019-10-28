@@ -11,6 +11,7 @@
     - {name: "Code Like a Tester", description: "Comunidade focada em compartilhar conhecimento em qualidade e teste de software na região de Blumenau/SC.", link: "https://www.linkedin.com/company/code-like-a-tester/", imageUrl: "codeliketester.jpg"}
     - {name: "DotNetCoders", description: "", link: "#", imageUrl: "dotnetcoders.png"}
     - {name: "GruPy Blumenau", description: "Grupy Blumenau é uma comunidade de usuários da linguagem e do ecossistema Python em Blumenau, Santa Catarina.", link: "https://blumenau.sc.python.org.br/", imageUrl: "grupyblumenau.png"}
+    - {name: "IXDA Blumenau", description: "", link: "https://www.sympla.com.br/ixdablu", imageUrl: "ixdablumenau.png"}
     - {name: "LKCamp", description: "LKCAMP is a Linux Kernel study group open for everyone to participate.", link: "https://lkcamp.gitlab.io/", imageUrl: "lkcamp.png"}
     - {name: "Meninas Digitas", description: "É um projeto de extensão da FURB do departamento de Sistemas e Computação, que conta com o apoio de alunas dos cursos de Ciência da Computação, Sistemas de Informação e Pedagogia, além de professoras e colaboradoras principalmente da área de Tecnologia da Informação.", link: "http://meninas.sbc.org.br/index.php/portfolio/meninas-digitais-vale-do-itajai/", imageUrl: "meninasdigitais.png"}
     - {name: "Mulheres de Produto", description: "Mulheres de Produto é uma comunidade para pessoas que se identificam como mulheres interessadas ou que atuam na tecnologia.", link: "https://www.meetup.com/Mulheres-de-Produto/", imageUrl: "mulheres-de-produto2.jpeg"}

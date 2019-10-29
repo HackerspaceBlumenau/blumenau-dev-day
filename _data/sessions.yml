@@ -45,3 +45,12 @@
   language: pt-br
   #  complexity: ""
   #  video: ""
+-
+  id: 003
+  title: "Desenvolvendo código de alta performance em .NET"
+  description: "Palestra da comunidade DotNet Coders."
+  subtype: presentation
+  speakers: [2,3]
+  language: pt-br
+  #  complexity: ""
+  #  video: ""

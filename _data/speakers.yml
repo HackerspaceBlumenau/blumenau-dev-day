@@ -12,3 +12,31 @@
       #    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
       #    - {name: "github", link: "https://github.com/dmytrodanylyk"}
       #    - {name: "site", link: "https://github.com/dmytrodanylyk"}
+-
+  id: 2
+  name: "Thaise"
+  surname: "Medeiros"
+  company: "PagueVeloz"
+  bio: '<p>Engenheira de software com 10 anos de experiência com desenvolvimento em .NET, apaixonada por código e arquitetura de software.</p>'
+  thumbnailUrl: ThaiseMedeiros.jpg
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/thaisemedeiros/"}
+      #    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
+      #    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
+      #    - {name: "github", link: "https://github.com/dmytrodanylyk"}
+      #    - {name: "site", link: "https://github.com/dmytrodanylyk"}
+-
+  id: 3
+  name: "Cristiano"
+  surname: "Rodrigues"
+  company: "PagueVeloz"
+  bio: '<p>Senior Solutions Architect at PagueVeloz</p>'
+  thumbnailUrl: CristianoRodrigues.jpg
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/cristianonrodrigues/"}
+      #    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
+      #    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
+      #    - {name: "github", link: "https://github.com/dmytrodanylyk"}
+      #    - {name: "site", link: "https://github.com/dmytrodanylyk"}

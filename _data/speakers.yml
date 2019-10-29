@@ -40,3 +40,17 @@
       #    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
       #    - {name: "github", link: "https://github.com/dmytrodanylyk"}
       #    - {name: "site", link: "https://github.com/dmytrodanylyk"}
+-
+  id: 4
+  name: "Pedro"
+  surname: "Nauck"
+  company: "Gatsby Inc"
+  bio: '<p></p>'
+  thumbnailUrl: PedroNauck.jpg
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/pedronauck/"}
+      #    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
+      #    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
+      #    - {name: "github", link: "https://github.com/dmytrodanylyk"}
+      #    - {name: "site", link: "https://github.com/dmytrodanylyk"}

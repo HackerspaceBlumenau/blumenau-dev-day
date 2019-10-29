@@ -54,3 +54,12 @@
   language: pt-br
   #  complexity: ""
   #  video: ""
+-
+  id: 004
+  title: "Statecharts: the right way to handle state in your apps!"
+  description: "Palestra da comunidade BlumenauJS."
+  subtype: presentation
+  speakers: [4]
+  language: pt-br
+  #  complexity: ""
+  #  video: ""

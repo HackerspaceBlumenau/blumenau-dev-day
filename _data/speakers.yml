@@ -54,3 +54,17 @@
       #    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
       #    - {name: "github", link: "https://github.com/dmytrodanylyk"}
       #    - {name: "site", link: "https://github.com/dmytrodanylyk"}
+-
+  id: 5
+  name: "Danielle"
+  surname: "Diehl"
+  company: "Movidesk"
+  bio: '<p>Danielle é jornalista e trabalha com produtos há 2 anos. Atualmente, é Product Manager na Movidesk.</p>'
+  thumbnailUrl: DanielleDiehl.jpg
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/danielle-diehl/"}
+      #    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
+      #    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
+      #    - {name: "github", link: "https://github.com/dmytrodanylyk"}
+      #    - {name: "site", link: "https://github.com/dmytrodanylyk"}

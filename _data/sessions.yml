@@ -63,3 +63,12 @@
   language: pt-br
   #  complexity: ""
   #  video: ""
+-
+  id: 005
+  title: "Mulheres de Produto: A força de uma comunidade."
+  description: "Palestra da comunidade Mulheres de Produto."
+  subtype: presentation
+  speakers: [5]
+  language: pt-br
+  #  complexity: ""
+  #  video: ""

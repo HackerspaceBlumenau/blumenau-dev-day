@@ -72,3 +72,21 @@
   language: pt-br
   #  complexity: ""
   #  video: ""
+-
+  id: 006
+  title: "Uma visão geral sobre universo Wordpress"
+  description: "Palestra da comunidade WordPress."
+  subtype: presentation
+  speakers: [6]
+  language: pt-br
+  #  complexity: ""
+  #  video: ""
+-
+  id: 007
+  title: "Primeiros Passos com Machine Learning."
+  description: "Palestra da comunidade GruPy."
+  subtype: presentation
+  speakers: [7]
+  language: pt-br
+  #  complexity: ""
+  #  video: ""

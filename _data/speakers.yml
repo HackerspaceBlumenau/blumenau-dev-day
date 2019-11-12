@@ -68,3 +68,31 @@
       #    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
       #    - {name: "github", link: "https://github.com/dmytrodanylyk"}
       #    - {name: "site", link: "https://github.com/dmytrodanylyk"}
+-
+  id: 6
+  name: "Tiago"
+  surname: "Bahi"
+  company: "REMARK Digital"
+  bio: '<p>Desenvolvedor WordPress na REMARK Digital</p>'
+  thumbnailUrl: TiagoBahi.jpg
+  rockstar: true
+  social:
+    #- {name: "linkedin", link: "https://www.linkedin.com/in/danielle-diehl/"}
+      #    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
+    - {name: "twitter", link: "https://twitter.com/tiagobahi"}
+      #    - {name: "github", link: "https://github.com/dmytrodanylyk"}
+      #    - {name: "site", link: "https://github.com/dmytrodanylyk"}
+-
+  id: 7
+  name: "Diego"
+  surname: "Neves"
+  company: "HBSIS"
+  bio: '<p>Trabalhando com desenvolvimento de software desde 2004, apaixonado por Python, GoLang  e Inteligencia Artificial. atuando como Dev 5 na HBSIS no projeto Hércules, atualmente estudando Arquitetura de soluções pela FIAP.</p>'
+  thumbnailUrl: DiegoNeves.jpg
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/diego-neves-508b76a/"}
+      #    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
+      #    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
+      #    - {name: "github", link: "https://github.com/dmytrodanylyk"}
+      #    - {name: "site", link: "https://github.com/dmytrodanylyk"}

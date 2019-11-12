@@ -51,9 +51,9 @@ navigationLinks:
 # - {permalink: "/logistics/", text: "Logistics"}
 # - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
-  - {link: "https://forms.gle/Tf6v4FQJJyN369Gj9", text: "Apoie este evento"}
+  - {link: "https://www.sympla.com.br/blumenau-dev-day-2019__715489", text: "Faça a sua inscrição"}
 rightNavigationButtons:
-  - {link: "https://forms.gle/Tf6v4FQJJyN369Gj9", text: "Apoie este evento"}
+  - {link: "https://www.sympla.com.br/blumenau-dev-day-2019__715489", text: "Faça a sua inscrição"}
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -62,7 +62,7 @@ eventDate: "7 de Dezembro 2019"
 typeoutTextValues: '"", "Agile Beer", "AWS User Group", "BlumenauJS", "Code Like a Tester", "DotNetCoders", "GruPy", "IXDA Blumenau", "LKCamp", "Meninas Digitas", "Mulheres de Produto", "Wordpress", "Hackerspace Blumenau", "Build Better Together"'
 typeoutFallback: ""
 heroButtons:
- - {link: "https://forms.gle/Tf6v4FQJJyN369Gj9", text: "Apoie este evento"}
+  - {link: "https://www.sympla.com.br/blumenau-dev-day-2019__715489", text: "Faça a sua inscrição"}
 # - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
@@ -188,7 +188,7 @@ footerBlocks:
  -
   title: "Contatos"
   links:
-   - {link: "mailto:hackerspaceblumenau@gmail.com", text: "hackerspaceblumenau@gmail.com"}
+   - {link: "mailto:hackerspaceblumenau@gmail.com", text: "por email"}
  -
   title: "FAQ"
   links:

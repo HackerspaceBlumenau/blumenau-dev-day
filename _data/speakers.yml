@@ -96,3 +96,45 @@
       #    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
       #    - {name: "github", link: "https://github.com/dmytrodanylyk"}
       #    - {name: "site", link: "https://github.com/dmytrodanylyk"}
+-
+  id: 8
+  name: "Natasha"
+  surname: "Zimmermann"
+  company: "AMcom"
+  bio: '<p>Natasha é formada em sistemas de informação e trabalha na área de TI há 11 anos. Atualmente é Scrum Master na AMcom.</p>'
+  thumbnailUrl: NatashaZimmermann.jpg
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/natasha-zimmermann-7a381077/"}
+      #    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
+      #    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
+      #    - {name: "github", link: "https://github.com/dmytrodanylyk"}
+      #    - {name: "site", link: "https://github.com/dmytrodanylyk"}
+-
+  id: 9
+  name: "Carlos"
+  surname: "Augusto Grahl"
+  company: "Senior Sistemas SA"
+  bio: '<p>Formado em Análise & Desenvolvimento de sistemas e eletrônica, com mais de 25 anos de experiência em desenvolvimento de sistemas, nas mais diversas linguagens e plataformas. Atualmente trabalha como arquiteto de software na Senior Sistemas S/A, trabalhando com microserviços, containers, scrum, etc..</p><p>Também é idealizador e desenvolvedor do projeto TemperaturaAqui, que visa levar o ensino de eletrônica, lógica e programação para as escolas públicas através da montagem de sensores climáticos, que expõem seus dados para toda a população e é AWS Community Leader para Blumenau e região.</p>'
+  thumbnailUrl: CarlosAugustoGrahl.jpg
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/carlos-augusto-grahl-0564009/"}
+      #    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
+      #    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
+      #    - {name: "github", link: "https://github.com/dmytrodanylyk"}
+      #    - {name: "site", link: "https://github.com/dmytrodanylyk"}
+-
+  id: 10
+  name: "Jonathan"
+  surname: "André Schweder"
+  company: "Pantacor"
+  bio: '<p>10 anos de experiência em DEV de soluções, produtos e serviços para Linux. Hoje Engenheiro de Software na inglesa Pantacor criando soluções de código aberto</p>'
+  thumbnailUrl: JonathanAndreSchweder.png
+  rockstar: true
+  social:
+      #- {name: "linkedin", link: "https://www.linkedin.com/in/carlos-augusto-grahl-0564009/"}
+      #    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
+     - {name: "twitter", link: "https://twitter.com/jaswdr"}
+     - {name: "github", link: "https://github.com/jaswdr"}
+      #    - {name: "site", link: "https://github.com/dmytrodanylyk"}

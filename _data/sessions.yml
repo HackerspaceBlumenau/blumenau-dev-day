@@ -68,7 +68,7 @@
   title: "Mulheres de Produto: A força de uma comunidade."
   description: "Palestra da comunidade Mulheres de Produto."
   subtype: presentation
-  speakers: [5]
+  speakers: [5,8]
   language: pt-br
   #  complexity: ""
   #  video: ""
@@ -87,6 +87,24 @@
   description: "Palestra da comunidade GruPy."
   subtype: presentation
   speakers: [7]
+  language: pt-br
+  #  complexity: ""
+  #  video: ""
+-
+  id: 008
+  title: "Conversando com dispositivos."
+  description: "Palestra da comunidade AWS Blumenau."
+  subtype: presentation
+  speakers: [9]
+  language: pt-br
+  #  complexity: ""
+  #  video: ""
+-
+  id: 009
+  title: "Docker para desenvolvedores."
+  description: "Palestra da comunidade Hackerspace Blumenau."
+  subtype: presentation
+  speakers: [10]
   language: pt-br
   #  complexity: ""
   #  video: ""

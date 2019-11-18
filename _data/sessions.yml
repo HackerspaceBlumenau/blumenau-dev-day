@@ -126,3 +126,12 @@
   language: pt-br
   #  complexity: ""
   #  video: ""
+-
+  id: 012
+  title: "Keynote"
+  description: ""
+  subtype: presentation
+  speakers: []
+  language: pt-br
+  #  complexity: ""
+  #  video: ""

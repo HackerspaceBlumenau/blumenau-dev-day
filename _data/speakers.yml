@@ -138,3 +138,73 @@
      - {name: "twitter", link: "https://twitter.com/jaswdr"}
      - {name: "github", link: "https://github.com/jaswdr"}
       #    - {name: "site", link: "https://github.com/dmytrodanylyk"}
+-
+  id: 11
+  name: "Luciana"
+  surname: "Pereira de Araújo"
+  company: "FURB"
+  bio: '<p>Professonara na FURB - Universidade Regional de Blumenau</p>'
+  thumbnailUrl: LucianaPereiradeAraujo.jpg
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/luciana-pereira-de-ara%C3%BAjo-0b74b424/"}
+      #    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
+      # - {name: "twitter", link: "https://twitter.com/jaswdr"}
+      # - {name: "github", link: "https://github.com/jaswdr"}
+      #    - {name: "site", link: "https://github.com/dmytrodanylyk"}
+-
+  id: 12
+  name: "Kristhye"
+  surname: ""
+  company: ""
+  bio: '<p></p>'
+  thumbnailUrl: default-person.jpg
+  rockstar: false
+  social:
+    # - {name: "linkedin", link: "https://www.linkedin.com/in/luciana-pereira-de-ara%C3%BAjo-0b74b424/"}
+      #    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
+      # - {name: "twitter", link: "https://twitter.com/jaswdr"}
+      # - {name: "github", link: "https://github.com/jaswdr"}
+      #    - {name: "site", link: "https://github.com/dmytrodanylyk"}
+-
+  id: 13
+  name: "Luma"
+  surname: "Kühl"
+  company: "GOVERNANÇABRASIL - GOVBR"
+  bio: '<p>Desenvolvedor de software na GOVERNANÇABRASIL - GOVBR</p>'
+  thumbnailUrl: LumaKuhl.jpg
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/luma-k%C3%BChl-487a8b8a/"}
+      #    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
+      # - {name: "twitter", link: "https://twitter.com/jaswdr"}
+      # - {name: "github", link: "https://github.com/jaswdr"}
+      #    - {name: "site", link: "https://github.com/dmytrodanylyk"}
+-
+  id: 14
+  name: "Dionei"
+  surname: "Piazza"
+  company: "Movidesk"
+  bio: '<p>Agile Coach - Make The World Customer Centric</p>'
+  thumbnailUrl: DioneiPiazza.jpg
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/dioneipiazza/"}
+      #    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
+      # - {name: "twitter", link: "https://twitter.com/jaswdr"}
+      # - {name: "github", link: "https://github.com/jaswdr"}
+      #    - {name: "site", link: "https://github.com/dmytrodanylyk"}
+-
+  id: 15
+  name: "Rafael"
+  surname: "Mueller"
+  company: "Movidesk"
+  bio: '<p>Head of engineering at Movidesk</p>'
+  thumbnailUrl: RafaelMueller.jpg
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/rafaelmueller/"}
+      #    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
+      # - {name: "twitter", link: "https://twitter.com/jaswdr"}
+      # - {name: "github", link: "https://github.com/jaswdr"}
+      #    - {name: "site", link: "https://github.com/dmytrodanylyk"}

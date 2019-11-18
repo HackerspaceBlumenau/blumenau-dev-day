@@ -108,3 +108,21 @@
   language: pt-br
   #  complexity: ""
   #  video: ""
+-
+  id: 010
+  title: "Meninas Digitais: um panorama sobre a atuação da mulher no mercado de computação"
+  description: "Visto o panorama da atuação das mulheres nas áreas de Tecnologia de Informação (TI) e computação no mundo e no Brasil, iremos apresentar um panorama da atuação dessas mulheres no mercado regional de Blumenau. Serão apresentados também alguns relatos de mulheres que atuam profissionalmente no mercado de computação."
+  subtype: presentation
+  speakers: [11,12,13]
+  language: pt-br
+  #  complexity: ""
+  #  video: ""
+-
+  id: 011
+  title: "1 ano de agile beer em 30 minutos"
+  description: "Palestra da comunidade Agile Beer Blumenau"
+  subtype: presentation
+  speakers: [14,15]
+  language: pt-br
+  #  complexity: ""
+  #  video: ""

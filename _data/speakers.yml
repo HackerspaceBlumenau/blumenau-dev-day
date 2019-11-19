@@ -44,7 +44,7 @@
   id: 4
   name: "Pedro"
   surname: "Nauck"
-  company: "Gatsby Inc"
+  company: "Upbit Co."
   bio: '<p></p>'
   thumbnailUrl: PedroNauck.jpg
   rockstar: true

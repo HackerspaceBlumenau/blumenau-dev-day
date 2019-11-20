@@ -208,3 +208,17 @@
       # - {name: "twitter", link: "https://twitter.com/jaswdr"}
       # - {name: "github", link: "https://github.com/jaswdr"}
       #    - {name: "site", link: "https://github.com/dmytrodanylyk"}
+-
+  id: 16
+  name: "Dani"
+  surname: "Monteiro"
+  company: "WDB Consulting"
+  bio: '<p>Sou mestra em Engenharia da Computação, autora do blog e do canal DB4Beginners, apresentadora do podcast Alto Volume, colunista do portal iMasters, TEDx Speaker e palestrante. Recebi os prêmios:</p> <ul> <li>Microsoft Regional Director (RD)</li> <li>Microsoft Most Valuable Professional (MVP)</li> <li>Microsoft MIE (Innovative Educator Expert)</li> <li>MongoDB Female Innovator</li> <li>William Zola (prêmio de inovação da MongoDB)</li> </ul> <p>Alem disso participo ativamente de diversas comunidades como por exemplo:</p> <ul> <li>Databases-SP</li> <li>WoMakersCode</li> <li>BlackRocks Startup</li> <li>Canal .Net</li> <li>Afrotech-Br</li> </ul> <p>Tenho como objetivo ajudar desenvolvedores iniciantes a modelar e consultar bancos de dados relacionais e NoSQL para que eles possam criar ótimos aplicativos e conquistar os melhores empregos.</p>'
+  thumbnailUrl: DaniMonteiro.jpg
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/danimonteirodba/"}
+      #    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
+      # - {name: "twitter", link: "https://twitter.com/jaswdr"}
+      # - {name: "github", link: "https://github.com/jaswdr"}
+      #    - {name: "site", link: "https://github.com/dmytrodanylyk"}

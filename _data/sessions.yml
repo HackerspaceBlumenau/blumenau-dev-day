@@ -131,7 +131,7 @@
   title: "Keynote"
   description: ""
   subtype: presentation
-  speakers: []
+  speakers: [16]
   language: pt-br
   #  complexity: ""
   #  video: ""

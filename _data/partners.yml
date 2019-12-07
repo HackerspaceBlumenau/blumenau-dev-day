@@ -6,3 +6,4 @@
     - {name: "HBSIS | ambev", description: "HBSIS | Soluções de tecnologia que transformam", link: "https://hbsis.com.br/", imageUrl: "HBSIS_Ambev.png"}
     - {name: "Movidesk", description: "Tornamos o seu atendimento imbatível", link: "https://www.movidesk.com/", imageUrl: "movidesk.png"}
     - {name: "PagueVeloz", description: "Você recebe de seus clientes e paga suas contas em um só lugar. Rápido, fácil e eficiente!", link: "https://www.pagueveloz.com.br/", imageUrl: "pagueveloz.png"}
+    - {name: "Bludata", description: "", link: "https://www.bludata.com.br/", imageUrl: "Logo-Bludata-vertical-01.png"}

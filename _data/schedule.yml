@@ -2,7 +2,7 @@
   date: "2019-12-07"
   dateReadable: "Dezembro 07"
   tracks: 
-    - {title: "Auditório do Bloco T", color: "#90be4e"}
+    - {title: "Auditório do Bloco J", color: "#90be4e"}
   timeslots:
     - {
       startTime: "08:30",

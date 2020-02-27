@@ -47,13 +47,15 @@ navigationLinks:
  - {permalink: "/blog/", text: "Blog"}
  - {permalink: "/programacao/", text: "Programação"}
  - {permalink: "/speakers/", text: "Speakers"}
+ - {link: "https://photos.app.goo.gl/WBX33VGoVfMip7mS6", text: "Fotos do evento"}
+ - {link: "https://www.youtube.com/watch?v=5MQqRQN_TPw", text: "Assista as palestras"}
 # - {permalink: "/team/", text: "Organizadores"}
 # - {permalink: "/logistics/", text: "Logistics"}
 # - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
-  - {link: "https://www.sympla.com.br/blumenau-dev-day-2019__715489", text: "Faça a sua inscrição"}
+  - {link: "https://www.youtube.com/watch?v=5MQqRQN_TPw", text: "Assista as palestras"}
 rightNavigationButtons:
-  - {link: "https://www.sympla.com.br/blumenau-dev-day-2019__715489", text: "Faça a sua inscrição"}
+  - {link: "https://www.youtube.com/watch?v=5MQqRQN_TPw", text: "Assista as palestras"}
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -62,7 +64,7 @@ eventDate: "7 de Dezembro 2019"
 typeoutTextValues: '"", "Agile Beer", "AWS User Group", "BlumenauJS", "Code Like a Tester", "DotNetCoders", "GruPy", "IXDA Blumenau", "LKCamp", "Meninas Digitas", "Mulheres de Produto", "Wordpress", "Hackerspace Blumenau", "Build Better Together"'
 typeoutFallback: ""
 heroButtons:
-  - {link: "https://www.sympla.com.br/blumenau-dev-day-2019__715489", text: "Faça a sua inscrição"}
+  - {link: "https://www.youtube.com/watch?v=5MQqRQN_TPw", text: "Assista as palestras"}
 # - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block

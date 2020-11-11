@@ -1,224 +1,224 @@
--
-  id: 1
-  name: "Allan"
-  surname: "Sklarow"
-  company: "Wipro Limited"
-  bio: '<p>Analista de automação pleno,  CTFL, formado em Gestão da Informação pela Universidade Federal do Paraná, apaixonado por inovação, agilidade e transformação rápida.</p>'
-  thumbnailUrl: AllanSklarow.jpg
-  rockstar: true
-  social:
-    - {name: "linkedin", link: "https://www.linkedin.com/in/sklarow/"}
-      #    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-      #    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-      #    - {name: "github", link: "https://github.com/dmytrodanylyk"}
-      #    - {name: "site", link: "https://github.com/dmytrodanylyk"}
--
-  id: 2
-  name: "Thaise"
-  surname: "Medeiros"
-  company: "PagueVeloz"
-  bio: '<p>Engenheira de software com 10 anos de experiência com desenvolvimento em .NET, apaixonada por código e arquitetura de software.</p>'
-  thumbnailUrl: ThaiseMedeiros.jpg
-  rockstar: true
-  social:
-    - {name: "linkedin", link: "https://www.linkedin.com/in/thaisemedeiros/"}
-      #    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-      #    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-      #    - {name: "github", link: "https://github.com/dmytrodanylyk"}
-      #    - {name: "site", link: "https://github.com/dmytrodanylyk"}
--
-  id: 3
-  name: "Cristiano"
-  surname: "Rodrigues"
-  company: "PagueVeloz"
-  bio: '<p>Senior Solutions Architect at PagueVeloz</p>'
-  thumbnailUrl: CristianoRodrigues.jpg
-  rockstar: true
-  social:
-    - {name: "linkedin", link: "https://www.linkedin.com/in/cristianonrodrigues/"}
-      #    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-      #    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-      #    - {name: "github", link: "https://github.com/dmytrodanylyk"}
-      #    - {name: "site", link: "https://github.com/dmytrodanylyk"}
--
-  id: 4
-  name: "Pedro"
-  surname: "Nauck"
-  company: "Upbit Co."
-  bio: '<p></p>'
-  thumbnailUrl: PedroNauck.jpg
-  rockstar: true
-  social:
-    - {name: "linkedin", link: "https://www.linkedin.com/in/pedronauck/"}
-      #    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-      #    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-      #    - {name: "github", link: "https://github.com/dmytrodanylyk"}
-      #    - {name: "site", link: "https://github.com/dmytrodanylyk"}
--
-  id: 5
-  name: "Danielle"
-  surname: "Diehl"
-  company: "Movidesk"
-  bio: '<p>Danielle é jornalista e trabalha com produtos há 2 anos. Atualmente, é Product Manager na Movidesk.</p>'
-  thumbnailUrl: DanielleDiehl.jpg
-  rockstar: true
-  social:
-    - {name: "linkedin", link: "https://www.linkedin.com/in/danielle-diehl/"}
-      #    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-      #    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-      #    - {name: "github", link: "https://github.com/dmytrodanylyk"}
-      #    - {name: "site", link: "https://github.com/dmytrodanylyk"}
--
-  id: 6
-  name: "Tiago"
-  surname: "Bahi"
-  company: "REMARK Digital"
-  bio: '<p>Desenvolvedor WordPress na REMARK Digital</p>'
-  thumbnailUrl: TiagoBahi.jpg
-  rockstar: true
-  social:
-    #- {name: "linkedin", link: "https://www.linkedin.com/in/danielle-diehl/"}
-      #    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-    - {name: "twitter", link: "https://twitter.com/tiagobahi"}
-      #    - {name: "github", link: "https://github.com/dmytrodanylyk"}
-      #    - {name: "site", link: "https://github.com/dmytrodanylyk"}
--
-  id: 7
-  name: "Diego"
-  surname: "Neves"
-  company: "HBSIS"
-  bio: '<p>Trabalhando com desenvolvimento de software desde 2004, apaixonado por Python, GoLang  e Inteligencia Artificial. atuando como Dev 5 na HBSIS no projeto Hércules, atualmente estudando Arquitetura de soluções pela FIAP.</p>'
-  thumbnailUrl: DiegoNeves.jpg
-  rockstar: true
-  social:
-    - {name: "linkedin", link: "https://www.linkedin.com/in/diego-neves-508b76a/"}
-      #    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-      #    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-      #    - {name: "github", link: "https://github.com/dmytrodanylyk"}
-      #    - {name: "site", link: "https://github.com/dmytrodanylyk"}
--
-  id: 8
-  name: "Natasha"
-  surname: "Zimmermann"
-  company: "AMcom"
-  bio: '<p>Natasha é formada em sistemas de informação e trabalha na área de TI há 11 anos. Atualmente é Scrum Master na AMcom.</p>'
-  thumbnailUrl: NatashaZimmermann.jpg
-  rockstar: true
-  social:
-    - {name: "linkedin", link: "https://www.linkedin.com/in/natasha-zimmermann-7a381077/"}
-      #    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-      #    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-      #    - {name: "github", link: "https://github.com/dmytrodanylyk"}
-      #    - {name: "site", link: "https://github.com/dmytrodanylyk"}
--
-  id: 9
-  name: "Carlos"
-  surname: "Augusto Grahl"
-  company: "Senior Sistemas SA"
-  bio: '<p>Formado em Análise & Desenvolvimento de sistemas e eletrônica, com mais de 25 anos de experiência em desenvolvimento de sistemas, nas mais diversas linguagens e plataformas. Atualmente trabalha como arquiteto de software na Senior Sistemas S/A, trabalhando com microserviços, containers, scrum, etc..</p><p>Também é idealizador e desenvolvedor do projeto TemperaturaAqui, que visa levar o ensino de eletrônica, lógica e programação para as escolas públicas através da montagem de sensores climáticos, que expõem seus dados para toda a população e é AWS Community Leader para Blumenau e região.</p>'
-  thumbnailUrl: CarlosAugustoGrahl.jpg
-  rockstar: true
-  social:
-    - {name: "linkedin", link: "https://www.linkedin.com/in/carlos-augusto-grahl-0564009/"}
-      #    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-      #    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-      #    - {name: "github", link: "https://github.com/dmytrodanylyk"}
-      #    - {name: "site", link: "https://github.com/dmytrodanylyk"}
--
-  id: 10
-  name: "Jonathan"
-  surname: "André Schweder"
-  company: "Pantacor"
-  bio: '<p>10 anos de experiência em DEV de soluções, produtos e serviços para Linux. Hoje Engenheiro de Software na inglesa Pantacor criando soluções de código aberto</p>'
-  thumbnailUrl: JonathanAndreSchweder.png
-  rockstar: true
-  social:
-      #- {name: "linkedin", link: "https://www.linkedin.com/in/carlos-augusto-grahl-0564009/"}
-      #    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-     - {name: "twitter", link: "https://twitter.com/jaswdr"}
-     - {name: "github", link: "https://github.com/jaswdr"}
-      #    - {name: "site", link: "https://github.com/dmytrodanylyk"}
--
-  id: 11
-  name: "Luciana"
-  surname: "Pereira de Araújo"
-  company: "FURB"
-  bio: '<p>Professonara na FURB - Universidade Regional de Blumenau</p>'
-  thumbnailUrl: LucianaPereiradeAraujo.jpg
-  rockstar: true
-  social:
-    - {name: "linkedin", link: "https://www.linkedin.com/in/luciana-pereira-de-ara%C3%BAjo-0b74b424/"}
-      #    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-      # - {name: "twitter", link: "https://twitter.com/jaswdr"}
-      # - {name: "github", link: "https://github.com/jaswdr"}
-      #    - {name: "site", link: "https://github.com/dmytrodanylyk"}
--
-  id: 12
-  name: "Kristhye"
-  surname: ""
-  company: ""
-  bio: '<p></p>'
-  thumbnailUrl: default-person.jpg
-  rockstar: false
-  social:
-    # - {name: "linkedin", link: "https://www.linkedin.com/in/luciana-pereira-de-ara%C3%BAjo-0b74b424/"}
-      #    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-      # - {name: "twitter", link: "https://twitter.com/jaswdr"}
-      # - {name: "github", link: "https://github.com/jaswdr"}
-      #    - {name: "site", link: "https://github.com/dmytrodanylyk"}
--
-  id: 13
-  name: "Luma"
-  surname: "Kühl"
-  company: "GOVERNANÇABRASIL - GOVBR"
-  bio: '<p>Desenvolvedor de software na GOVERNANÇABRASIL - GOVBR</p>'
-  thumbnailUrl: LumaKuhl.jpg
-  rockstar: true
-  social:
-    - {name: "linkedin", link: "https://www.linkedin.com/in/luma-k%C3%BChl-487a8b8a/"}
-      #    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-      # - {name: "twitter", link: "https://twitter.com/jaswdr"}
-      # - {name: "github", link: "https://github.com/jaswdr"}
-      #    - {name: "site", link: "https://github.com/dmytrodanylyk"}
--
-  id: 14
-  name: "Dionei"
-  surname: "Piazza"
-  company: "Movidesk"
-  bio: '<p>Agile Coach - Make The World Customer Centric</p>'
-  thumbnailUrl: DioneiPiazza.jpg
-  rockstar: true
-  social:
-    - {name: "linkedin", link: "https://www.linkedin.com/in/dioneipiazza/"}
-      #    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-      # - {name: "twitter", link: "https://twitter.com/jaswdr"}
-      # - {name: "github", link: "https://github.com/jaswdr"}
-      #    - {name: "site", link: "https://github.com/dmytrodanylyk"}
--
-  id: 15
-  name: "Rafael"
-  surname: "Mueller"
-  company: "Movidesk"
-  bio: '<p>Head of engineering at Movidesk</p>'
-  thumbnailUrl: RafaelMueller.jpg
-  rockstar: true
-  social:
-    - {name: "linkedin", link: "https://www.linkedin.com/in/rafaelmueller/"}
-      #    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-      # - {name: "twitter", link: "https://twitter.com/jaswdr"}
-      # - {name: "github", link: "https://github.com/jaswdr"}
-      #    - {name: "site", link: "https://github.com/dmytrodanylyk"}
--
-  id: 16
-  name: "Dani"
-  surname: "Monteiro"
-  company: "WDB Consulting"
-  bio: '<p>Sou mestra em Engenharia da Computação, autora do blog e do canal DB4Beginners, apresentadora do podcast Alto Volume, colunista do portal iMasters, TEDx Speaker e palestrante. Recebi os prêmios:</p> <ul> <li>Microsoft Regional Director (RD)</li> <li>Microsoft Most Valuable Professional (MVP)</li> <li>Microsoft MIE (Innovative Educator Expert)</li> <li>MongoDB Female Innovator</li> <li>William Zola (prêmio de inovação da MongoDB)</li> </ul> <p>Alem disso participo ativamente de diversas comunidades como por exemplo:</p> <ul> <li>Databases-SP</li> <li>WoMakersCode</li> <li>BlackRocks Startup</li> <li>Canal .Net</li> <li>Afrotech-Br</li> </ul> <p>Tenho como objetivo ajudar desenvolvedores iniciantes a modelar e consultar bancos de dados relacionais e NoSQL para que eles possam criar ótimos aplicativos e conquistar os melhores empregos.</p>'
-  thumbnailUrl: DaniMonteiro.jpg
-  rockstar: true
-  social:
-    - {name: "linkedin", link: "https://www.linkedin.com/in/danimonteirodba/"}
-      #    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-      # - {name: "twitter", link: "https://twitter.com/jaswdr"}
-      # - {name: "github", link: "https://github.com/jaswdr"}
-      #    - {name: "site", link: "https://github.com/dmytrodanylyk"}
+#-
+#  id: 1
+#  name: "Allan"
+#  surname: "Sklarow"
+#  company: "Wipro Limited"
+#  bio: '<p>Analista de automação pleno,  CTFL, formado em Gestão da Informação pela Universidade Federal do Paraná, apaixonado por inovação, agilidade e transformação rápida.</p>'
+#  thumbnailUrl: AllanSklarow.jpg
+#  rockstar: true
+#  social:
+#    - {name: "linkedin", link: "https://www.linkedin.com/in/sklarow/"}
+#      #    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
+#      #    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
+#      #    - {name: "github", link: "https://github.com/dmytrodanylyk"}
+#      #    - {name: "site", link: "https://github.com/dmytrodanylyk"}
+#-
+#  id: 2
+#  name: "Thaise"
+#  surname: "Medeiros"
+#  company: "PagueVeloz"
+#  bio: '<p>Engenheira de software com 10 anos de experiência com desenvolvimento em .NET, apaixonada por código e arquitetura de software.</p>'
+#  thumbnailUrl: ThaiseMedeiros.jpg
+#  rockstar: true
+#  social:
+#    - {name: "linkedin", link: "https://www.linkedin.com/in/thaisemedeiros/"}
+#      #    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
+#      #    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
+#      #    - {name: "github", link: "https://github.com/dmytrodanylyk"}
+#      #    - {name: "site", link: "https://github.com/dmytrodanylyk"}
+#-
+#  id: 3
+#  name: "Cristiano"
+#  surname: "Rodrigues"
+#  company: "PagueVeloz"
+#  bio: '<p>Senior Solutions Architect at PagueVeloz</p>'
+#  thumbnailUrl: CristianoRodrigues.jpg
+#  rockstar: true
+#  social:
+#    - {name: "linkedin", link: "https://www.linkedin.com/in/cristianonrodrigues/"}
+#      #    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
+#      #    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
+#      #    - {name: "github", link: "https://github.com/dmytrodanylyk"}
+#      #    - {name: "site", link: "https://github.com/dmytrodanylyk"}
+#-
+#  id: 4
+#  name: "Pedro"
+#  surname: "Nauck"
+#  company: "Upbit Co."
+#  bio: '<p></p>'
+#  thumbnailUrl: PedroNauck.jpg
+#  rockstar: true
+#  social:
+#    - {name: "linkedin", link: "https://www.linkedin.com/in/pedronauck/"}
+#      #    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
+#      #    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
+#      #    - {name: "github", link: "https://github.com/dmytrodanylyk"}
+#      #    - {name: "site", link: "https://github.com/dmytrodanylyk"}
+#-
+#  id: 5
+#  name: "Danielle"
+#  surname: "Diehl"
+#  company: "Movidesk"
+#  bio: '<p>Danielle é jornalista e trabalha com produtos há 2 anos. Atualmente, é Product Manager na Movidesk.</p>'
+#  thumbnailUrl: DanielleDiehl.jpg
+#  rockstar: true
+#  social:
+#    - {name: "linkedin", link: "https://www.linkedin.com/in/danielle-diehl/"}
+#      #    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
+#      #    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
+#      #    - {name: "github", link: "https://github.com/dmytrodanylyk"}
+#      #    - {name: "site", link: "https://github.com/dmytrodanylyk"}
+#-
+#  id: 6
+#  name: "Tiago"
+#  surname: "Bahi"
+#  company: "REMARK Digital"
+#  bio: '<p>Desenvolvedor WordPress na REMARK Digital</p>'
+#  thumbnailUrl: TiagoBahi.jpg
+#  rockstar: true
+#  social:
+#    #- {name: "linkedin", link: "https://www.linkedin.com/in/danielle-diehl/"}
+#      #    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
+#    - {name: "twitter", link: "https://twitter.com/tiagobahi"}
+#      #    - {name: "github", link: "https://github.com/dmytrodanylyk"}
+#      #    - {name: "site", link: "https://github.com/dmytrodanylyk"}
+#-
+#  id: 7
+#  name: "Diego"
+#  surname: "Neves"
+#  company: "HBSIS"
+#  bio: '<p>Trabalhando com desenvolvimento de software desde 2004, apaixonado por Python, GoLang  e Inteligencia Artificial. atuando como Dev 5 na HBSIS no projeto Hércules, atualmente estudando Arquitetura de soluções pela FIAP.</p>'
+#  thumbnailUrl: DiegoNeves.jpg
+#  rockstar: true
+#  social:
+#    - {name: "linkedin", link: "https://www.linkedin.com/in/diego-neves-508b76a/"}
+#      #    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
+#      #    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
+#      #    - {name: "github", link: "https://github.com/dmytrodanylyk"}
+#      #    - {name: "site", link: "https://github.com/dmytrodanylyk"}
+#-
+#  id: 8
+#  name: "Natasha"
+#  surname: "Zimmermann"
+#  company: "AMcom"
+#  bio: '<p>Natasha é formada em sistemas de informação e trabalha na área de TI há 11 anos. Atualmente é Scrum Master na AMcom.</p>'
+#  thumbnailUrl: NatashaZimmermann.jpg
+#  rockstar: true
+#  social:
+#    - {name: "linkedin", link: "https://www.linkedin.com/in/natasha-zimmermann-7a381077/"}
+#      #    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
+#      #    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
+#      #    - {name: "github", link: "https://github.com/dmytrodanylyk"}
+#      #    - {name: "site", link: "https://github.com/dmytrodanylyk"}
+#-
+#  id: 9
+#  name: "Carlos"
+#  surname: "Augusto Grahl"
+#  company: "Senior Sistemas SA"
+#  bio: '<p>Formado em Análise & Desenvolvimento de sistemas e eletrônica, com mais de 25 anos de experiência em desenvolvimento de sistemas, nas mais diversas linguagens e plataformas. Atualmente trabalha como arquiteto de software na Senior Sistemas S/A, trabalhando com microserviços, containers, scrum, etc..</p><p>Também é idealizador e desenvolvedor do projeto TemperaturaAqui, que visa levar o ensino de eletrônica, lógica e programação para as escolas públicas através da montagem de sensores climáticos, que expõem seus dados para toda a população e é AWS Community Leader para Blumenau e região.</p>'
+#  thumbnailUrl: CarlosAugustoGrahl.jpg
+#  rockstar: true
+#  social:
+#    - {name: "linkedin", link: "https://www.linkedin.com/in/carlos-augusto-grahl-0564009/"}
+#      #    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
+#      #    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
+#      #    - {name: "github", link: "https://github.com/dmytrodanylyk"}
+#      #    - {name: "site", link: "https://github.com/dmytrodanylyk"}
+#-
+#  id: 10
+#  name: "Jonathan"
+#  surname: "André Schweder"
+#  company: "Pantacor"
+#  bio: '<p>10 anos de experiência em DEV de soluções, produtos e serviços para Linux. Hoje Engenheiro de Software na inglesa Pantacor criando soluções de código aberto</p>'
+#  thumbnailUrl: JonathanAndreSchweder.png
+#  rockstar: true
+#  social:
+#      #- {name: "linkedin", link: "https://www.linkedin.com/in/carlos-augusto-grahl-0564009/"}
+#      #    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
+#     - {name: "twitter", link: "https://twitter.com/jaswdr"}
+#     - {name: "github", link: "https://github.com/jaswdr"}
+#      #    - {name: "site", link: "https://github.com/dmytrodanylyk"}
+#-
+#  id: 11
+#  name: "Luciana"
+#  surname: "Pereira de Araújo"
+#  company: "FURB"
+#  bio: '<p>Professonara na FURB - Universidade Regional de Blumenau</p>'
+#  thumbnailUrl: LucianaPereiradeAraujo.jpg
+#  rockstar: true
+#  social:
+#    - {name: "linkedin", link: "https://www.linkedin.com/in/luciana-pereira-de-ara%C3%BAjo-0b74b424/"}
+#      #    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
+#      # - {name: "twitter", link: "https://twitter.com/jaswdr"}
+#      # - {name: "github", link: "https://github.com/jaswdr"}
+#      #    - {name: "site", link: "https://github.com/dmytrodanylyk"}
+#-
+#  id: 12
+#  name: "Kristhye"
+#  surname: ""
+#  company: ""
+#  bio: '<p></p>'
+#  thumbnailUrl: default-person.jpg
+#  rockstar: false
+#  social:
+#    # - {name: "linkedin", link: "https://www.linkedin.com/in/luciana-pereira-de-ara%C3%BAjo-0b74b424/"}
+#      #    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
+#      # - {name: "twitter", link: "https://twitter.com/jaswdr"}
+#      # - {name: "github", link: "https://github.com/jaswdr"}
+#      #    - {name: "site", link: "https://github.com/dmytrodanylyk"}
+#-
+#  id: 13
+#  name: "Luma"
+#  surname: "Kühl"
+#  company: "GOVERNANÇABRASIL - GOVBR"
+#  bio: '<p>Desenvolvedor de software na GOVERNANÇABRASIL - GOVBR</p>'
+#  thumbnailUrl: LumaKuhl.jpg
+#  rockstar: true
+#  social:
+#    - {name: "linkedin", link: "https://www.linkedin.com/in/luma-k%C3%BChl-487a8b8a/"}
+#      #    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
+#      # - {name: "twitter", link: "https://twitter.com/jaswdr"}
+#      # - {name: "github", link: "https://github.com/jaswdr"}
+#      #    - {name: "site", link: "https://github.com/dmytrodanylyk"}
+#-
+#  id: 14
+#  name: "Dionei"
+#  surname: "Piazza"
+#  company: "Movidesk"
+#  bio: '<p>Agile Coach - Make The World Customer Centric</p>'
+#  thumbnailUrl: DioneiPiazza.jpg
+#  rockstar: true
+#  social:
+#    - {name: "linkedin", link: "https://www.linkedin.com/in/dioneipiazza/"}
+#      #    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
+#      # - {name: "twitter", link: "https://twitter.com/jaswdr"}
+#      # - {name: "github", link: "https://github.com/jaswdr"}
+#      #    - {name: "site", link: "https://github.com/dmytrodanylyk"}
+#-
+#  id: 15
+#  name: "Rafael"
+#  surname: "Mueller"
+#  company: "Movidesk"
+#  bio: '<p>Head of engineering at Movidesk</p>'
+#  thumbnailUrl: RafaelMueller.jpg
+#  rockstar: true
+#  social:
+#    - {name: "linkedin", link: "https://www.linkedin.com/in/rafaelmueller/"}
+#      #    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
+#      # - {name: "twitter", link: "https://twitter.com/jaswdr"}
+#      # - {name: "github", link: "https://github.com/jaswdr"}
+#      #    - {name: "site", link: "https://github.com/dmytrodanylyk"}
+#-
+#  id: 16
+#  name: "Dani"
+#  surname: "Monteiro"
+#  company: "WDB Consulting"
+#  bio: '<p>Sou mestra em Engenharia da Computação, autora do blog e do canal DB4Beginners, apresentadora do podcast Alto Volume, colunista do portal iMasters, TEDx Speaker e palestrante. Recebi os prêmios:</p> <ul> <li>Microsoft Regional Director (RD)</li> <li>Microsoft Most Valuable Professional (MVP)</li> <li>Microsoft MIE (Innovative Educator Expert)</li> <li>MongoDB Female Innovator</li> <li>William Zola (prêmio de inovação da MongoDB)</li> </ul> <p>Alem disso participo ativamente de diversas comunidades como por exemplo:</p> <ul> <li>Databases-SP</li> <li>WoMakersCode</li> <li>BlackRocks Startup</li> <li>Canal .Net</li> <li>Afrotech-Br</li> </ul> <p>Tenho como objetivo ajudar desenvolvedores iniciantes a modelar e consultar bancos de dados relacionais e NoSQL para que eles possam criar ótimos aplicativos e conquistar os melhores empregos.</p>'
+#  thumbnailUrl: DaniMonteiro.jpg
+#  rockstar: true
+#  social:
+#    - {name: "linkedin", link: "https://www.linkedin.com/in/danimonteirodba/"}
+#      #    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
+#      # - {name: "twitter", link: "https://twitter.com/jaswdr"}
+#      # - {name: "github", link: "https://github.com/jaswdr"}
+#      #    - {name: "site", link: "https://github.com/dmytrodanylyk"}

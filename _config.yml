@@ -13,7 +13,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 title: "Blumenau Dev Day 2019"
 email: "hackerspaceblumenau@gmail.com"
 description: "Evento para reunir todas as comunidades de Blumenau SC"
-baseurl: "/blumenau-dev-day"
+baseurl: "/blumenau-dev-day/2019"
 url: "http://www.hackerspaceblumenau.org"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-91819658-1"

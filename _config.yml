@@ -14,10 +14,10 @@ title: "Blumenau Dev Day 2020"
 email: "hackerspaceblumenau@gmail.com"
 description: "Evento para reunir todas as comunidades de Blumenau SC"
 baseurl: "/blumenau-dev-day"
-url: "http://www.hackerspaceblumenau.org"
+url: "https://hackerspaceblumenau.org"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-91819658-1"
-googleAnalyticsSiteUrl: "http://www.hackerspaceblumenau.org/"
+googleAnalyticsSiteUrl: "https://www.hackerspaceblumenau.org/"
 siteVerification: "d8bf6da5-4361-467a-a782-eab138c47b60"
 googleAPIKey: "AIzaSyDcQf1AqXxyAzbWhsTtKJ09uerJuAygA4Y"
 
@@ -27,7 +27,7 @@ organizerAlternateName: "Hackerspace Blumenau"
 organizerDescription: "O Hackerspace Blumenau visa ser um espaço comunitário, aberto e colaborativo com disponibilização de uma infraestrutura para realização de encontros, eventos, oficinas e projetos em diversas áreas relacionadas a tecnologia, visando sempre a troca de conhecimento."
 organizerEmail: "hackerspaceblumenau@gmail.com"
 organizerLogo: "/img/hackerspaceblumenau.png"
-organizerLink: "http://www.hackerspaceblumenau.org/"
+organizerLink: "https://www.hackerspaceblumenau.org/"
 
 # Head
 metaKeywords: "Blumenau, dev, programming, developers"
@@ -187,7 +187,7 @@ footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "http://www.hackerspaceblumenau.org", text: "Hackerspace Blumenau"}
+   - {link: "https://www.hackerspaceblumenau.org", text: "Hackerspace Blumenau"}
  -
   title: "Contatos"
   links:

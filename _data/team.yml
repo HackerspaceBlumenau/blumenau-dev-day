@@ -1,60 +1,80 @@
-- 
+-
   id: 0
-  name: "Vitaliy"
-  surname: "Zasadnyy"
-  title: "Sponsors and Speakers Manager"
-  thumbnailUrl: VitaliyZasadnyy.jpg
+  name: "Cristiano"
+  surname: "Rodrigues"
+  title: "Solutions Architect | Software Engineer"
+  thumbnailUrl: "cristianonrodrigues.png"
   team: true
-  ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
-  social: 
-    - {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
-    - {name: "twitter", link: "https://twitter.com/zasadnyy"}
-    - {name: "github", link: "https://github.com/zasadnyy"}
-    - {name: "site", link: "http://zasadnyy.com/"}
-- 
+  ribbon:
+    - {abbr: "DotNetCoders", title: "Organizador"}
+    - {abbr: "Blumenau Dev Day", title: "Organizador"}
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/cristianonrodrigues/"}
+-
   id: 1
-  name: "Oleh"
-  surname: "Zasadnyy"
-  title: "Designer and Web Developer"
-  thumbnailUrl: OlehZasadnyy.jpg
+  name: "Júlio César"
+  surname: "Batista"
+  title: "Software Engineer at Shippo"
+  thumbnailUrl: "juliobatista.png"
   team: true
-  ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
-  social: 
-    - {name: "google-plus", link: "https://google.com/+OlehZasadnyy"}
-    - {name: "github", link: "https://github.com/ozasadnyy"}
-- 
+  ribbon:
+    - {abbr: "Hackerspace Blumenau", title: "Organizador"}
+    - {abbr: "GruPy Blumenau", title: "Organizador"}
+    - {abbr: "Blumenau Dev Day", title: "Organizador"}
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/juliobatista/"}
+    - {name: "github", link: "https://github.com/ejulio/"}
+    - {name: "site", link: "http://juliocesarbatista.com/"}
+-
   id: 2
-  name: "Ostap"
-  surname: "Andrusiv"
-  title: "Sponsors and Speakers Manager"
-  thumbnailUrl: OstapAndrusiv.jpg
+  name: "Raffael"
+  surname: "Tancman"
+  title: "Technical Lead at Jusbrasil"
+  thumbnailUrl: "rtancman.png"
   team: true
-  ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
-  social: 
-    - {name: "google-plus", link: "https://google.com/+OstapAndrusiv"}
-    - {name: "twitter", link: "https://twitter.com/p1f"}
-    - {name: "site", link: "http://andrusiv.com/"}
-- 
+  ribbon:
+    - {abbr: "Hackerspace Blumenau", title: "Organizador"}
+    - {abbr: "GruPy Blumenau", title: "Organizador"}
+    - {abbr: "Elastic Blumenau", title: "Organizador"}
+    - {abbr: "Blumenau Dev Day", title: "Organizador"}
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/rtancman/"}
+    - {name: "github", link: "https://github.com/rtancman/"}
+    - {name: "site", link: "https://rtancman.com.br/"}
+-
+  id: 3
+  name: "Thaise"
+  surname: "Medeiros"
+  title: "Software Architect with experience in IT leadership and business strategies for high-performance companies | Microsoft MVP, Speaker, and Advocate for Technology Diversity"
+  thumbnailUrl: "thaisemedeiros.png"
+  team: true
+  ribbon:
+    - {abbr: "DotNetCoders", title: "Organizador"}
+    - {abbr: "Blumenau Dev Day", title: "Organizador"}
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/thaisemedeiros/"}
+-
   id: 4
-  name: "Dmytro"
-  surname: "Danylyk"
-  title: "Android Program Committee"
-  thumbnailUrl: DmytroDanylyk.jpg
+  name: "Tonin"
+  surname: "Bolzan"
+  title: "SRE Manager | CRM PipeRun"
+  thumbnailUrl: bolzan.png
+  team: true
+  ribbon:
+    - {abbr: "Hackerspace Blumenau", title: "Organizador"}
+    - {abbr: "Blumenau Dev Day", title: "Organizador"}
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/bolzan/"}
+    - {name: "site", link: "https://bolzan.io/"}
+-
+  id: 5
+  name: "Aurélio"
+  surname: "Hoppe"
+  title: "Teacher at University of Blumenau"
+  thumbnailUrl: aureliohoppe.png
   subTeam: true
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-    - {name: "github", link: "https://github.com/dmytrodanylyk"}
-- 
-  id: 7
-  name: "Valentyn"
-  surname: "Shybanov"
-  title: "Web and Cloud Program Committee"
-  thumbnailUrl: ValentynShybanov.jpg
-  subTeam: true
-  social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
+  ribbon:
+    - {abbr: "Hackerspace Blumenau", title: "Organizador"}
+    - {abbr: "Blumenau Dev Day", title: "Organizador"}
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/aurélio-hoppe-7564b877/"}

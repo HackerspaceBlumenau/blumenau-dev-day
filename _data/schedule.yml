@@ -1,101 +1,17 @@
-- 
-  date: "2020-12-14"
-  dateReadable: "Dezembro 14"
-  tracks: 
-    - {title: "ONLINE", color: "#90be4e"}
+-
+  date: "2023-12-09"
+  dateReadable: "Dezembro 09"
+  tracks:
+    - {title: "Presencial", color: "#90be4e"}
   timeslots:
     - {
-      startTime: "19:00",
-    	endTime: "19:10",
+      startTime: "10:00",
+    	endTime: "10:10",
     	sessionIds: [407]
     }
     - {
-      startTime: "19:10",
-    	endTime: "20:00",
-    	sessionIds: [207]
-    }
-    - {
-      startTime: "20:00",
-    	endTime: "20:10",
-    	sessionIds: [107]
-    }
-- 
-  date: "2020-12-15"
-  dateReadable: "Dezembro 15"
-  tracks: 
-    - {title: "ONLINE", color: "#90be4e"}
-  timeslots:
-    - {
-      startTime: "19:00",
-    	endTime: "19:10",
-    	sessionIds: [407]
-    }
-    - {
-      startTime: "19:10",
-    	endTime: "20:00",
-    	sessionIds: [207]
-    }
-    - {
-      startTime: "20:00",
-    	endTime: "20:10",
-    	sessionIds: [107]
-    }
-- 
-  date: "2020-12-16"
-  dateReadable: "Dezembro 16"
-  tracks: 
-    - {title: "ONLINE", color: "#90be4e"}
-  timeslots:
-    - {
-      startTime: "19:00",
-    	endTime: "19:10",
-    	sessionIds: [407]
-    }
-    - {
-      startTime: "19:10",
-    	endTime: "20:00",
-    	sessionIds: [207]
-    }
-    - {
-      startTime: "20:00",
-    	endTime: "20:10",
-    	sessionIds: [107]
-    }
-- 
-  date: "2020-12-17"
-  dateReadable: "Dezembro 17"
-  tracks: 
-    - {title: "ONLINE", color: "#90be4e"}
-  timeslots:
-    - {
-      startTime: "19:00",
-    	endTime: "19:10",
-    	sessionIds: [407]
-    }
-    - {
-      startTime: "19:10",
-    	endTime: "20:00",
-    	sessionIds: [207]
-    }
-    - {
-      startTime: "20:00",
-    	endTime: "20:10",
-    	sessionIds: [107]
-    }
-- 
-  date: "2020-12-18"
-  dateReadable: "Dezembro 18"
-  tracks: 
-    - {title: "ONLINE", color: "#90be4e"}
-  timeslots:
-    - {
-      startTime: "19:00",
-    	endTime: "19:10",
-    	sessionIds: [407]
-    }
-    - {
-      startTime: "19:10",
-    	endTime: "20:00",
+      startTime: "10:10",
+    	endTime: "11:00",
     	sessionIds: [207]
     }
     - {

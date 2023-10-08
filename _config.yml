@@ -10,7 +10,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "Blumenau Dev Day 2020"
+title: "Blumenau Dev Day 2023"
 email: "hackerspaceblumenau@gmail.com"
 description: "Evento para reunir todas as comunidades de Blumenau SC"
 baseurl: "/blumenau-dev-day"
@@ -47,10 +47,10 @@ navigationLinks:
  - {permalink: "/blog/", text: "Blog"}
  - {permalink: "/programacao/", text: "Programação"}
  - {permalink: "/speakers/", text: "Speakers"}
+ - {permalink: "/team/", text: "Organizadores"}
  - {permalink: "/2019/", text: "Veja como foi em 2019"}
  # - {link: "https://photos.app.goo.gl/WBX33VGoVfMip7mS6", text: "Fotos do evento"}
  # - {link: "https://www.youtube.com/watch?v=5MQqRQN_TPw", text: "Assista as palestras"}
-# - {permalink: "/team/", text: "Organizadores"}
 # - {permalink: "/logistics/", text: "Logistics"}
 # - {permalink: "/hackathon/", text: "Hackathon"}
 # bottomNavigationLinks:
@@ -61,8 +61,8 @@ navigationLinks:
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "Blumenau Dev Day <typeout>"
-eventDate: "14 à 18 de Dezembro 2020"
-typeoutTextValues: '"", "Agile Beer", "AWS User Group", "BlumenauJS", "Code Like a Tester", "DotNetCoders", "GruPy", "IXDA Blumenau", "LKCamp", "Meninas Digitas", "Mulheres de Produto", "Wordpress", "Hackerspace Blumenau", "Build Better Together"'
+eventDate: "9 de Dezembro 2023"
+typeoutTextValues: '"", "DotNetCoders", "GruPy", "Hackerspace Blumenau", "Elastic Blumenau User Group"'
 typeoutFallback: ""
 heroButtons:
   # - {link: "https://www.youtube.com/watch?v=5MQqRQN_TPw", text: "Assista as palestras"}
@@ -93,7 +93,7 @@ rockstarSpeakersTitle: "Rockstar speakers"
 rockstarSpeakersButtonText: "Veja todos os palestrantes"
 
 # Location Block
-locationBlockTitle: "Online"
+locationBlockTitle: "Presncial"
 eventLocationName: ""
 eventLocationLink: "#"
 eventStreetAddress: ""
@@ -101,9 +101,9 @@ eventAddressLocality: ""
 eventAddressLocalityRegion: "Blumenau"
 eventPostalCode: ""
 eventAddressCountry: "Brasil"
-eventStartTime: "2020-12-14T19:00"
-eventDoorTime: "09:00"
-eventEndTime: "2020-12-18T20:00"
+eventStartTime: "2023-12-09T10:00"
+eventDoorTime: "10:00"
+eventEndTime: "2023-12-09T20:00"
 eventPlaceCoordinates: "-26.905613, -49.078779"
 mapCenterCoordinates: "-26.905613, -49.078779"
 mapMobileCenterCoordinates: "-26.905613, -49.078779"

@@ -1,0 +1,23 @@
+name: deploy
+
+on:
+  push:
+    branches:
+      - jekyll
+
+jobs:
+  github-pages:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GH_PAGES_GITHUB_TOKEN }}
+          ref: jekyll
+      - name: setup-ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          os: ubuntu-latest
+          ruby-version: '3.1.2'
+          bundler-cache: true
+      - name: jekyll build
+        run: bundle exec jekyll build

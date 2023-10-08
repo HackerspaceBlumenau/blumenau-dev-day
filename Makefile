@@ -10,4 +10,5 @@ build:
 	bundle exec jekyll build
 
 copy_to_hackerspace:
-	yes | cp -r _site/ _site/2019/
+	mkdir -p 2019
+	yes | cp -r _site/ 2019/

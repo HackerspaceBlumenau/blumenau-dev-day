@@ -21,3 +21,12 @@ jobs:
           bundler-cache: true
       - name: jekyll build
         run: bundle exec jekyll build
+      - name: deploy to gh-pages
+        run: |
+          cd  ./_site
+          git init
+          git config user.name hackerspaceblumenau
+          git config user.email hackerspaceblumenau@gmail.com
+          git add . && git commit -m "Deploy github-pages"
+          git remote add origin https://rtancman:${{ secrets.GH_PAGES_GITHUB_TOKEN }}@github.com/HackerspaceBlumenau/blumenau-dev-day.git
+          git push origin master -f

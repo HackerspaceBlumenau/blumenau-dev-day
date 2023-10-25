@@ -1,137 +1,110 @@
 -
   id: 107
   title: "Encerramento"
-  place: "ONLINE"
+  place: "Auditório"
   service: true
   description: "Encerramento e foto oficial do evento"
 -
-  id: 407
-  title: "Abertura"
-  place: "ONLINE"
-  service: true
-  description: "Cada comunidade terá até 3 minutos para se apresentar, seus canais, o que vem fazendo"
--
   id: 207
-  title: "Palestra"
-  place: "ONLINE"
+  title: "Credenciamento"
+  place: "Auditório"
   service: true
   description: ""
-# -
-#   id: 307
-#   title: "Coffee Break"
-#   place: "Hall"
-#   service: true
-#   description: "A melhor hora para conversar com palestrantes e participantes."
-# -
-#   id: 503
-#   title: "Lunch Break"
-#   place: ""
-#   service: true
-# -
-#   id: 001
-#   title: "Palestra"
-#   description: ""
-#   subtype: presentation
-#   speakers: []
-#   language: pt-br
-#   complexity: ""
-#   video: ""
-# -
-#   id: 002
-#   title: "QA Ágil - Como ser um Jedi na sua Squad"
-#   description: "Um overview do cotidiano de QA's dentro de ambiente ágil."
-#   subtype: presentation
-#   speakers: [1]
-#   language: pt-br
-#   #  complexity: ""
-#   #  video: ""
-# -
-#   id: 003
-#   title: "Desenvolvendo código de alta performance em .NET"
-#   description: "Palestra da comunidade DotNet Coders."
-#   subtype: presentation
-#   speakers: [2,3]
-#   language: pt-br
-#   #  complexity: ""
-#   #  video: ""
-# -
-#   id: 004
-#   title: "Statecharts: the right way to handle state in your apps!"
-#   description: "Palestra da comunidade BlumenauJS."
-#   subtype: presentation
-#   speakers: [4]
-#   language: pt-br
-#   #  complexity: ""
-#   #  video: ""
-# -
-#   id: 005
-#   title: "Mulheres de Produto: A força de uma comunidade."
-#   description: "Palestra da comunidade Mulheres de Produto."
-#   subtype: presentation
-#   speakers: [5,8]
-#   language: pt-br
-#   #  complexity: ""
-#   #  video: ""
-# -
-#   id: 006
-#   title: "Uma visão geral sobre universo Wordpress"
-#   description: "Palestra da comunidade WordPress."
-#   subtype: presentation
-#   speakers: [6]
-#   language: pt-br
-#   #  complexity: ""
-#   #  video: ""
-# -
-#   id: 007
-#   title: "Primeiros Passos com Machine Learning."
-#   description: "Palestra da comunidade GruPy."
-#   subtype: presentation
-#   speakers: [7]
-#   language: pt-br
-#   #  complexity: ""
-#   #  video: ""
-# -
-#   id: 008
-#   title: "Conversando com dispositivos."
-#   description: "Palestra da comunidade AWS Blumenau."
-#   subtype: presentation
-#   speakers: [9]
-#   language: pt-br
-#   #  complexity: ""
-#   #  video: ""
-# -
-#   id: 009
-#   title: "Docker para desenvolvedores."
-#   description: "Palestra da comunidade Hackerspace Blumenau."
-#   subtype: presentation
-#   speakers: [10]
-#   language: pt-br
-#   #  complexity: ""
-#   #  video: ""
-# -
-#   id: 010
-#   title: "Meninas Digitais: um panorama sobre a atuação da mulher no mercado de computação"
-#   description: "Visto o panorama da atuação das mulheres nas áreas de Tecnologia de Informação (TI) e computação no mundo e no Brasil, iremos apresentar um panorama da atuação dessas mulheres no mercado regional de Blumenau. Serão apresentados também alguns relatos de mulheres que atuam profissionalmente no mercado de computação."
-#   subtype: presentation
-#   speakers: [11,12,13]
-#   language: pt-br
-#   #  complexity: ""
-#   #  video: ""
-# -
-#   id: 011
-#   title: "1 ano de agile beer em 30 minutos"
-#   description: "Palestra da comunidade Agile Beer Blumenau"
-#   subtype: presentation
-#   speakers: [14,15]
-#   language: pt-br
-#   #  complexity: ""
-#   #  video: ""
-# -
-#   id: 012
-#   title: "Keynote"
-#   description: ""
-#   subtype: presentation
-#   speakers: [16]
-#   language: pt-br
-#   #  complexity: ""
-#   #  video: ""
+-
+  id: 407
+  title: "Abertura"
+  place: "Auditório"
+  service: true
+  description: ""
+-
+  id: 307
+  title: "Coffee Break"
+  place: "Hall"
+  service: true
+  description: "A melhor hora para conversar com palestrantes e participantes."
+-
+  id: 503
+  title: "Lunch Break"
+  place: ""
+  description: "Hora de conversar com palestrantes e participantes pelos restaurantes da região."
+  service: true
+-
+  id: 603
+  title: "Happy hour"
+  place: ""
+  description: "Hora de conversar com palestrantes e participantes em um bar!"
+  service: true
+-
+  id: 001
+  title: "Palestra da Comunidade Python"
+  place: "Auditório"
+  description: ""
+  subtype: presentation
+  speakers: []
+  language: pt-br
+  complexity: ""
+  video: ""
+-
+  id: 002
+  title: "Palestra da Comunidade .NET"
+  place: "Auditório"
+  description: ""
+  subtype: presentation
+  speakers: []
+  language: pt-br
+  #  complexity: ""
+  #  video: ""
+-
+  id: 003
+  title: "Palestra da comunidade AWS + Serverless"
+  description: ""
+  subtype: presentation
+  speakers: []
+  language: pt-br
+  #  complexity: ""
+  #  video: ""
+-
+  id: 004
+  title: "Keynote 1"
+  description: ""
+  subtype: presentation
+  speakers: []
+  language: pt-br
+  #  complexity: ""
+  #  video: ""
+-
+  id: 005
+  title: "Palestra da comunidade Testes / Produto"
+  description: ""
+  subtype: presentation
+  speakers: []
+  language: pt-br
+  #  complexity: ""
+  #  video: ""
+-
+  id: 006
+  title: "Palestra da comunidade Elastic"
+  description: ""
+  subtype: presentation
+  speakers: []
+  language: pt-br
+  #  complexity: ""
+  #  video: ""
+-
+  id: 007
+  title: "Palestra da comunidade DevOps"
+  description: ""
+  subtype: presentation
+  speakers: []
+  language: pt-br
+  #  complexity: ""
+  #  video: ""
+-
+  id: 008
+  title: "Keynote 2"
+  description: ""
+  subtype: presentation
+  speakers: []
+  language: pt-br
+  #  complexity: ""
+  #  video: ""

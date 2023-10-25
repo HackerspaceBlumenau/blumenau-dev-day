@@ -5,17 +5,72 @@
     - {title: "Presencial", color: "#90be4e"}
   timeslots:
     - {
-      startTime: "10:00",
-    	endTime: "10:10",
-    	sessionIds: [407]
-    }
-    - {
-      startTime: "10:10",
-    	endTime: "11:00",
+      startTime: "08:00",
+    	endTime: "09:00",
     	sessionIds: [207]
     }
     - {
-      startTime: "20:00",
-    	endTime: "20:10",
+      startTime: "09:00",
+    	endTime: "09:10",
+    	sessionIds: [407]
+    }
+    - {
+      startTime: "09:10",
+    	endTime: "09:55",
+    	sessionIds: [001]
+    }
+    - {
+      startTime: "09:55",
+    	endTime: "10:40",
+    	sessionIds: [002]
+    }
+    - {
+      startTime: "10:40",
+    	endTime: "11:25",
+    	sessionIds: [003]
+    }
+    - {
+      startTime: "11:25",
+    	endTime: "12:25",
+    	sessionIds: [004]
+    }
+    - {
+      startTime: "12:25",
+    	endTime: "14:00",
+    	sessionIds: [503]
+    }
+    - {
+      startTime: "14:00",
+    	endTime: "14:45",
+    	sessionIds: [005]
+    }
+    - {
+      startTime: "14:45",
+    	endTime: "15:20",
+    	sessionIds: [006]
+    }
+    - {
+      startTime: "15:20",
+    	endTime: "16:05",
+    	sessionIds: [307]
+    }
+    - {
+      startTime: "16:05",
+    	endTime: "16:50",
+    	sessionIds: [007]
+    }
+    - {
+      startTime: "16:50",
+    	endTime: "17:50",
+    	sessionIds: [007]
+    }
+    - {
+      startTime: "17:50",
+    	endTime: "18:00",
     	sessionIds: [107]
+    }
+    - {
+      startTime: "18:00",
+    	endTime: "00:00",
+    	sessionIds: [603]
     }

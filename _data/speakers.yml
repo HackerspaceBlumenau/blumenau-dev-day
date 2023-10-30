@@ -1,18 +1,18 @@
-#-
-#  id: 1
-#  name: "Allan"
-#  surname: "Sklarow"
-#  company: "Wipro Limited"
-#  bio: '<p>Analista de automação pleno,  CTFL, formado em Gestão da Informação pela Universidade Federal do Paraná, apaixonado por inovação, agilidade e transformação rápida.</p>'
-#  thumbnailUrl: AllanSklarow.jpg
-#  rockstar: true
-#  social:
-#    - {name: "linkedin", link: "https://www.linkedin.com/in/sklarow/"}
-#      #    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-#      #    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-#      #    - {name: "github", link: "https://github.com/dmytrodanylyk"}
-#      #    - {name: "site", link: "https://github.com/dmytrodanylyk"}
-#-
+-
+ id: 1
+ name: "Elemar"
+ surname: "Júnior"
+ company: "Elemar JR"
+ bio: '<p>Mentor, Consultant, and Advisor for C-Levels, Executives, and Specialists. A tech-savvy guy who understands business.</p>'
+ thumbnailUrl: elemarjunior.png
+ rockstar: true
+ social:
+   - {name: "linkedin", link: "https://www.linkedin.com/in/elemarjr/"}
+   - {name: "youtube", link: "https://www.youtube.com/c/ElemarJunior"}
+   - {name: "twitter", link: "https://twitter.com/elemarjr"}
+     #    - {name: "github", link: "https://github.com/dmytrodanylyk"}
+   - {name: "site", link: "https://elemarjr.com/"}
+# -
 #  id: 2
 #  name: "Thaise"
 #  surname: "Medeiros"

@@ -5,72 +5,67 @@
     - {title: "Presencial", color: "#90be4e"}
   timeslots:
     - {
-      startTime: "08:00",
-    	endTime: "09:00",
+      startTime: "09:30",
+    	endTime: "10:00",
     	sessionIds: [207]
     }
     - {
-      startTime: "09:00",
-    	endTime: "09:10",
+      startTime: "10:00",
+    	endTime: "10:15",
     	sessionIds: [407]
     }
     - {
-      startTime: "09:10",
-    	endTime: "09:55",
+      startTime: "10:15",
+    	endTime: "11:00",
     	sessionIds: [001]
     }
     - {
-      startTime: "09:55",
-    	endTime: "10:40",
-    	sessionIds: [002]
-    }
-    - {
-      startTime: "10:40",
-    	endTime: "11:25",
-    	sessionIds: [003]
-    }
-    - {
-      startTime: "11:25",
-    	endTime: "12:25",
+      startTime: "11:00",
+    	endTime: "12:00",
     	sessionIds: [004]
     }
     - {
-      startTime: "12:25",
-    	endTime: "14:00",
+      startTime: "12:00",
+    	endTime: "13:30",
     	sessionIds: [503]
     }
     - {
-      startTime: "14:00",
-    	endTime: "14:45",
+      startTime: "13:30",
+    	endTime: "14:15",
     	sessionIds: [005]
     }
     - {
-      startTime: "14:45",
-    	endTime: "15:20",
+      startTime: "14:15",
+    	endTime: "15:00",
+    	sessionIds: [002]
+    }
+    - {
+      startTime: "15:00",
+    	endTime: "15:45",
     	sessionIds: [006]
     }
     - {
-      startTime: "15:20",
-    	endTime: "16:05",
+      startTime: "15:45",
+    	endTime: "16:00",
     	sessionIds: [307]
     }
     - {
-      startTime: "16:05",
-    	endTime: "16:50",
-    	sessionIds: [007]
+      startTime: "16:00",
+    	endTime: "17:00",
+    	sessionIds: [003]
     }
     - {
-      startTime: "16:50",
-    	endTime: "17:50",
-    	sessionIds: [007]
-    }
-    - {
-      startTime: "17:50",
+      startTime: "17:00",
     	endTime: "18:00",
-    	sessionIds: [107]
+    	sessionIds: [008]
     }
     - {
       startTime: "18:00",
+    	endTime: "18:20",
+    	sessionIds: [107]
+    }
+    - {
+      startTime: "18:20",
     	endTime: "00:00",
     	sessionIds: [603]
     }

@@ -48,6 +48,7 @@ navigationLinks:
  - {permalink: "/programacao/", text: "Programação"}
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Organizadores"}
+ - {permalink: "/assets/BLUMENAU-DEV-DAY-2023-Media-Kit.pdf", text: "Media Kit 2023"}
  - {permalink: "/2019/", text: "Veja como foi em 2019"}
  # - {link: "https://photos.app.goo.gl/WBX33VGoVfMip7mS6", text: "Fotos do evento"}
  # - {link: "https://www.youtube.com/watch?v=5MQqRQN_TPw", text: "Assista as palestras"}
@@ -193,8 +194,13 @@ footerBlocks:
   links:
    - {link: "mailto:hackerspaceblumenau@gmail.com", text: "por email"}
  -
-  title: "FAQ"
+  title: "Apoioadores"
   links:
+    #  - {permalink: "/cod/", text: "Code of Conduct"}
+    - {permalink: "/assets/BLUMENAU-DEV-DAY-2023-Media-Kit.pdf", text: "Media Kit 2023"}
+#  -
+#   title: "FAQ"
+#   links:
     #  - {permalink: "/cod/", text: "Code of Conduct"}
 
 # Blog

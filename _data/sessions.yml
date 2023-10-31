@@ -56,10 +56,10 @@
   #  video: ""
 -
   id: 003
-  title: "Palestra da comunidade AWS + Serverless"
+  title: "Serverless"
   description: ""
   subtype: presentation
-  speakers: []
+  speakers: [2]
   language: pt-br
   #  complexity: ""
   #  video: ""
@@ -74,10 +74,10 @@
   #  video: ""
 -
   id: 005
-  title: "Palestra da comunidade Testes / Produto"
+  title: "Testes / Produto"
   description: ""
   subtype: presentation
-  speakers: []
+  speakers: [3, 4]
   language: pt-br
   #  complexity: ""
   #  video: ""

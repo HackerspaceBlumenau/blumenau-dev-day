@@ -12,48 +12,48 @@
    - {name: "twitter", link: "https://twitter.com/elemarjr"}
      #    - {name: "github", link: "https://github.com/dmytrodanylyk"}
    - {name: "site", link: "https://elemarjr.com/"}
-# -
-#  id: 2
-#  name: "Thaise"
-#  surname: "Medeiros"
-#  company: "PagueVeloz"
-#  bio: '<p>Engenheira de software com 10 anos de experiência com desenvolvimento em .NET, apaixonada por código e arquitetura de software.</p>'
-#  thumbnailUrl: ThaiseMedeiros.jpg
-#  rockstar: true
-#  social:
-#    - {name: "linkedin", link: "https://www.linkedin.com/in/thaisemedeiros/"}
-#      #    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-#      #    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-#      #    - {name: "github", link: "https://github.com/dmytrodanylyk"}
-#      #    - {name: "site", link: "https://github.com/dmytrodanylyk"}
-#-
-#  id: 3
-#  name: "Cristiano"
-#  surname: "Rodrigues"
-#  company: "PagueVeloz"
-#  bio: '<p>Senior Solutions Architect at PagueVeloz</p>'
-#  thumbnailUrl: CristianoRodrigues.jpg
-#  rockstar: true
-#  social:
-#    - {name: "linkedin", link: "https://www.linkedin.com/in/cristianonrodrigues/"}
-#      #    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-#      #    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-#      #    - {name: "github", link: "https://github.com/dmytrodanylyk"}
-#      #    - {name: "site", link: "https://github.com/dmytrodanylyk"}
-#-
-#  id: 4
-#  name: "Pedro"
-#  surname: "Nauck"
-#  company: "Upbit Co."
-#  bio: '<p></p>'
-#  thumbnailUrl: PedroNauck.jpg
-#  rockstar: true
-#  social:
-#    - {name: "linkedin", link: "https://www.linkedin.com/in/pedronauck/"}
-#      #    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-#      #    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-#      #    - {name: "github", link: "https://github.com/dmytrodanylyk"}
-#      #    - {name: "site", link: "https://github.com/dmytrodanylyk"}
+-
+ id: 2
+ name: "Evandro"
+ surname: "Pires"
+ company: "Senior"
+ bio: '<p>Evandro Pires é um executivo de tecnologia, evangelista de serverless, palestrante e apaixonado por tecnologia e liderança. É o primeiro AWS Serverless Hero da América Latina e é também host do podcast Sem Servidor, dedicado ao tema serverless. Com uma longa carreira em desenvolvimento de sistemas, atualmente é CTO da Senior Sistemas.</p><p>É programador desde os seus 12 anos, quando aprendeu a programar com seu pai em Clipper. É um apreciador de pizza e se aventura fazendo pizzas nos finais de semana para curtir em família, além de se aventurar em campings também com a família.</p>'
+ thumbnailUrl: evandropires.png
+ rockstar: true
+ social:
+   - {name: "linkedin", link: "https://www.linkedin.com/in/epiresdasilva/"}
+     #    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
+     #    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
+     #    - {name: "github", link: "https://github.com/dmytrodanylyk"}
+     #    - {name: "site", link: "https://github.com/dmytrodanylyk"}
+-
+ id: 3
+ name: "Bruna"
+ surname: "Emerich"
+ company: "io.insure"
+ bio: '<p>Bruna Emerich: Head de Qualidade na io.insure, responsável por melhorar os processos de qualidade e pela criação de estratégia para garantir a qualidade em um marketplace multi-country. Atuo desde 2009 com qualidade de software e desde 2019 compartilho conhecimento sobre qualidade, testes e desenvolvimento de software através da comunidade Code like a tester.</p>'
+ thumbnailUrl: brunaemerich.png
+ rockstar: true
+ social:
+   - {name: "linkedin", link: "https://www.linkedin.com/in/bruna-emerich-675733131/"}
+     #    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
+     #    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
+     #    - {name: "github", link: "https://github.com/dmytrodanylyk"}
+     #    - {name: "site", link: "https://github.com/dmytrodanylyk"}
+-
+ id: 4
+ name: "Tamara"
+ surname: "Fontanella"
+ company: "Serasa"
+ bio: '<p>Tamara Fontanella: Co-fundadora da comunidade Code Like a Tester e Especialista de Qualidade na Serasa. Atuo desde 2013 com testes e qualidade de software e utilizo todos estes anos de conhecimento adquirido mentorando pessoas e palestrando, fazendo com que a palavra da qualidade chegue a mais empresas de software.</p>'
+ thumbnailUrl: tamarafontanella.png
+ rockstar: true
+ social:
+   - {name: "linkedin", link: "https://www.linkedin.com/in/tamara-fontanella-252612154/"}
+     #    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
+     #    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
+     #    - {name: "github", link: "https://github.com/dmytrodanylyk"}
+     #    - {name: "site", link: "https://github.com/dmytrodanylyk"}
 #-
 #  id: 5
 #  name: "Danielle"

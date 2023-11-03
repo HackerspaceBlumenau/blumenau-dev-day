@@ -30,9 +30,9 @@
   service: true
 -
   id: 603
-  title: "Happy hour"
+  title: "Happy hour no Balburdia"
   place: ""
-  description: "Hora de conversar com palestrantes e participantes em um bar!"
+  description: "Hora de conversar com palestrantes e participantes no Balburdia!"
   service: true
 -
   id: 001
@@ -83,10 +83,10 @@
   #  video: ""
 -
   id: 006
-  title: "Palestra da comunidade Elastic"
+  title: "Segurança"
   description: ""
   subtype: presentation
-  speakers: []
+  speakers: [5]
   language: pt-br
   #  complexity: ""
   #  video: ""

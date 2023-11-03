@@ -54,20 +54,20 @@
      #    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
      #    - {name: "github", link: "https://github.com/dmytrodanylyk"}
      #    - {name: "site", link: "https://github.com/dmytrodanylyk"}
-#-
-#  id: 5
-#  name: "Danielle"
-#  surname: "Diehl"
-#  company: "Movidesk"
-#  bio: '<p>Danielle é jornalista e trabalha com produtos há 2 anos. Atualmente, é Product Manager na Movidesk.</p>'
-#  thumbnailUrl: DanielleDiehl.jpg
-#  rockstar: true
-#  social:
-#    - {name: "linkedin", link: "https://www.linkedin.com/in/danielle-diehl/"}
-#      #    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-#      #    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-#      #    - {name: "github", link: "https://github.com/dmytrodanylyk"}
-#      #    - {name: "site", link: "https://github.com/dmytrodanylyk"}
+-
+ id: 5
+ name: "Eduardo"
+ surname: "Gadotti"
+ company: "Fácil Espaider"
+ bio: '<p>Apaixonado por segurança cibernética, trabalhando a mais de uma década com desenvolvimento, gestão e fortalecimento da segurança da informação. Possui um histórico de atuação em projetos críticos e na criação de práticas de segurança de dados em diversas empresas de destaque, desempenhando um papel crucial na implementação da ISO 27001. Como especialista e Gestor de Segurança da Informação, lidera contribuindo para a criação de um ambiente seguro e consciente em toda a organização e na comunidade em que atua.</p>'
+ thumbnailUrl: eduardogadotti.png
+ rockstar: true
+ social:
+   - {name: "linkedin", link: "https://www.linkedin.com/in/eduardogadotti/"}
+     #    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
+     #    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
+     #    - {name: "github", link: "https://github.com/dmytrodanylyk"}
+     #    - {name: "site", link: "https://github.com/dmytrodanylyk"}
 #-
 #  id: 6
 #  name: "Tiago"

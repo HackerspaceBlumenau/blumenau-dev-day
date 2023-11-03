@@ -51,13 +51,13 @@ navigationLinks:
  - {permalink: "/assets/BLUMENAU-DEV-DAY-2023-Media-Kit.pdf", text: "Media Kit 2023"}
  - {permalink: "/2019/", text: "Veja como foi em 2019"}
  # - {link: "https://photos.app.goo.gl/WBX33VGoVfMip7mS6", text: "Fotos do evento"}
- # - {link: "https://www.youtube.com/watch?v=5MQqRQN_TPw", text: "Assista as palestras"}
+ - {link: "https://www.sympla.com.br/evento/blumenau-dev-day-2023/2230874", text: "Faça a sua inscrição"}
 # - {permalink: "/logistics/", text: "Logistics"}
 # - {permalink: "/hackathon/", text: "Hackathon"}
-# bottomNavigationLinks:
-  # - {link: "https://www.youtube.com/watch?v=5MQqRQN_TPw", text: "Assista as palestras"}
-# rightNavigationButtons:
-  # - {link: "https://www.youtube.com/watch?v=5MQqRQN_TPw", text: "Assista as palestras"}
+bottomNavigationLinks:
+  - {link: "https://www.sympla.com.br/evento/blumenau-dev-day-2023/2230874", text: "Faça a sua inscrição"}
+rightNavigationButtons:
+  - {link: "https://www.sympla.com.br/evento/blumenau-dev-day-2023/2230874", text: "Faça a sua inscrição"}
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -66,8 +66,8 @@ eventDate: "9 de Dezembro 2023"
 typeoutTextValues: '"", "DotNetCoders", "GruPy", "Hackerspace Blumenau", "Elastic Blumenau User Group"'
 typeoutFallback: ""
 heroButtons:
-  # - {link: "https://www.youtube.com/watch?v=5MQqRQN_TPw", text: "Assista as palestras"}
-# - {permalink: "/#tickets", text: "Buy tickets"}
+  - {link: "https://www.sympla.com.br/evento/blumenau-dev-day-2023/2230874", text: "Faça a sua inscrição"}
+  # - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
 aboutTitle: "Sobre Blumenau Dev Day"

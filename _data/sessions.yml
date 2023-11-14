@@ -46,11 +46,11 @@
   video: ""
 -
   id: 002
-  title: "Palestra da Comunidade .NET"
+  title: "OCI DevOps - Uma plataforma completa de CI/CD"
   place: "Auditório"
-  description: ""
+  description: "OCI DevOps é uma plataforma completa de CI/CD que ajuda os desenvolvedores no ciclo de vida da entrega de software, irei abordar sobre a cultura DevOps e como o OCI DevOps pode ajudar as empresas na entrega e desenvolvimento de software."
   subtype: presentation
-  speakers: []
+  speakers: [6]
   language: pt-br
   #  complexity: ""
   #  video: ""

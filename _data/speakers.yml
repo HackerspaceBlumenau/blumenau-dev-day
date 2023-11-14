@@ -68,20 +68,20 @@
      #    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
      #    - {name: "github", link: "https://github.com/dmytrodanylyk"}
      #    - {name: "site", link: "https://github.com/dmytrodanylyk"}
-#-
-#  id: 6
-#  name: "Tiago"
-#  surname: "Bahi"
-#  company: "REMARK Digital"
-#  bio: '<p>Desenvolvedor WordPress na REMARK Digital</p>'
-#  thumbnailUrl: TiagoBahi.jpg
-#  rockstar: true
-#  social:
-#    #- {name: "linkedin", link: "https://www.linkedin.com/in/danielle-diehl/"}
-#      #    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-#    - {name: "twitter", link: "https://twitter.com/tiagobahi"}
-#      #    - {name: "github", link: "https://github.com/dmytrodanylyk"}
-#      #    - {name: "site", link: "https://github.com/dmytrodanylyk"}
+-
+ id: 6
+ name: "José"
+ surname: "Neto"
+ company: "Oracle Cloud"
+ bio: '<p>Cloud Solution Engineer com mais de 7 anos de experiência em Cloud , Cloud Native, DevOps, Kubernetes, Terraform, Databases e Migrações. Atuo com foco em ajudar os clientes na jornada em Cloud, fornecendo soluções e serviços para atender às suas necessidades.</p><p>Possuo diversas certificações em Cloud e outros temas, incluindo certificações em Oracle Cloud, Google Cloud, AWS, Kubernetes e Terraform.</p>'
+ thumbnailUrl: joseneto.jpg
+ rockstar: true
+ social:
+   #- {name: "linkedin", link: "https://www.linkedin.com/in/danielle-diehl/"}
+     #    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
+  #  - {name: "twitter", link: "https://twitter.com/tiagobahi"}
+     #    - {name: "github", link: "https://github.com/dmytrodanylyk"}
+     #    - {name: "site", link: "https://github.com/dmytrodanylyk"}
 #-
 #  id: 7
 #  name: "Diego"

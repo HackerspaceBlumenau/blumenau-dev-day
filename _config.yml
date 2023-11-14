@@ -26,15 +26,15 @@ organizerName: "Hackerspace Blumenau"
 organizerAlternateName: "Hackerspace Blumenau"
 organizerDescription: "O Hackerspace Blumenau visa ser um espaço comunitário, aberto e colaborativo com disponibilização de uma infraestrutura para realização de encontros, eventos, oficinas e projetos em diversas áreas relacionadas a tecnologia, visando sempre a troca de conhecimento."
 organizerEmail: "hackerspaceblumenau@gmail.com"
-organizerLogo: "/img/hackerspaceblumenau.png"
+organizerLogo: "/img/organizers/hackerspaceblumenau.png"
 organizerLink: "https://www.hackerspaceblumenau.org/"
 
 # Head
 metaKeywords: "Blumenau, dev, programming, developers"
 twitterAccount: "@hackerspacebnu"
-socialImageSrcGooglePlus: "/img/hackerspaceblumenau.png"
-socialImageSrcTwitter: "/img/hackerspaceblumenau.png"
-socialImageSrcFacebook: "/img/hackerspaceblumenau.png"
+socialImageSrcGooglePlus: "/img/organizers/BlumenauDevDay.png"
+socialImageSrcTwitter: "/img/organizers/BlumenauDevDay.png"
+socialImageSrcFacebook: "/img/organizers/BlumenauDevDay.png"
 
 # Documents
 # c4pUrl: "https://forms.gle/Tf6v4FQJJyN369Gj9"

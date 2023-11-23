@@ -82,20 +82,20 @@
   #  - {name: "twitter", link: "https://twitter.com/tiagobahi"}
      #    - {name: "github", link: "https://github.com/dmytrodanylyk"}
      #    - {name: "site", link: "https://github.com/dmytrodanylyk"}
-#-
-#  id: 7
-#  name: "Diego"
-#  surname: "Neves"
-#  company: "HBSIS"
-#  bio: '<p>Trabalhando com desenvolvimento de software desde 2004, apaixonado por Python, GoLang  e Inteligencia Artificial. atuando como Dev 5 na HBSIS no projeto Hércules, atualmente estudando Arquitetura de soluções pela FIAP.</p>'
-#  thumbnailUrl: DiegoNeves.jpg
-#  rockstar: true
-#  social:
-#    - {name: "linkedin", link: "https://www.linkedin.com/in/diego-neves-508b76a/"}
-#      #    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-#      #    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-#      #    - {name: "github", link: "https://github.com/dmytrodanylyk"}
-#      #    - {name: "site", link: "https://github.com/dmytrodanylyk"}
+-
+ id: 7
+ name: "João"
+ surname: "Paulo Carvalho"
+ company: "i4sea"
+ bio: '<p>Grupy Blumenau, Back-end e SRE Engineer</p>'
+ thumbnailUrl: joaopaulocarvalho.jpg
+ rockstar: true
+ social:
+   - {name: "linkedin", link: "https://www.linkedin.com/in/jjpaulo2/"}
+     #    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
+     #    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
+     #    - {name: "github", link: "https://github.com/dmytrodanylyk"}
+     #    - {name: "site", link: "https://github.com/dmytrodanylyk"}
 #-
 #  id: 8
 #  name: "Natasha"

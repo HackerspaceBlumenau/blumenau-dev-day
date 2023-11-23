@@ -36,14 +36,14 @@
   service: true
 -
   id: 001
-  title: "Palestra da Comunidade Python"
+  title: "Pare de usar Django agora!"
   place: "Auditório"
-  description: ""
+  description: "Nos últimos anos a necessidade de resolver problemas de forma rápida levou muitos desenvolvedores a utilizar o framework Django para resolvê-los na ilusão de uma solução rápida para qualquer tipo de problema. Vamos entender que nem sempre isso é verdade e porque você deveria evitar essa abordagem. Vamos mostrar alternativas e boas práticas dentro e fora do Django para evitar esse \"overengineering de framework\"."
   subtype: presentation
-  speakers: []
+  speakers: [7]
   language: pt-br
-  complexity: ""
-  video: ""
+  # complexity: ""
+  # video: ""
 -
   id: 002
   title: "OCI DevOps - Uma plataforma completa de CI/CD"
@@ -74,8 +74,8 @@
   #  video: ""
 -
   id: 005
-  title: "Testes / Produto"
-  description: ""
+  title: "O dívida técnica de hoje pode ser o bug de amanhã"
+  description: "Pense em um cenário onde cada decisão técnica desconsiderada ou postergada se transforma em uma espécie de dívida invisível, que eventualmente se materializa como defeitos, retrabalho e prejuízos para o projeto. À medida que as tarefas são concluídas rapidamente para atender a prazos imediatos, compromissos técnicos são frequentemente deixados de lado. No entanto, essa dívida se acumula e acarreta problemas à medida que o software se expande, comprometendo a eficiência e a qualidade. Nessa palestra falaremos sobre consequências que dívidas técnicas podem trazer para a saúde do produto, destacando a necessidade de uma abordagem estratégica da gestão e a importância do papel da liderança para garantir um desenvolvimento de software mais sólido e duradouro."
   subtype: presentation
   speakers: [3, 4]
   language: pt-br

@@ -65,10 +65,10 @@
   #  video: ""
 -
   id: 004
-  title: "Keynote 1"
+  title: "Power BI"
   description: ""
   subtype: presentation
-  speakers: []
+  speakers: [8]
   language: pt-br
   #  complexity: ""
   #  video: ""

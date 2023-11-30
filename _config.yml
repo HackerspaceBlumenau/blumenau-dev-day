@@ -180,7 +180,8 @@ ticketsOffers:
 
 # Footer
 socialLinks:
- - {link: "https://hackerspaceblumenau.slack.com/", icon: "slack"}
+ - {link: "https://www.instagram.com/blumenaudevday/", icon: "instagram", viewbox: "0 0 16 16"}
+ - {link: "https://hackerspaceblumenau.slack.com/", icon: "slack", viewbox: "0 0 16 16"}
  - {link: "https://twitter.com/hackerspacebnu", icon: "twitter"}
  - {link: "https://facebook.com/hackerspace.blumenau", icon: "facebook"}
  - {permalink: "/feed.xml", icon: "rss"}

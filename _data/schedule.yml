@@ -5,14 +5,19 @@
     - {title: "Presencial", color: "#90be4e"}
   timeslots:
     - {
-      startTime: "09:30",
-    	endTime: "10:00",
+      startTime: "09:00",
+    	endTime: "09:30",
     	sessionIds: [207]
     }
     - {
-      startTime: "10:00",
+      startTime: "09:30",
+    	endTime: "09:50",
+    	sessionIds: [009]
+    }
+    - {
+      startTime: "09:50",
     	endTime: "10:15",
-    	sessionIds: [407]
+    	sessionIds: [010]
     }
     - {
       startTime: "10:15",

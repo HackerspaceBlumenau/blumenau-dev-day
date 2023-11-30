@@ -110,6 +110,34 @@
      #    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
      #    - {name: "github", link: "https://github.com/dmytrodanylyk"}
      #    - {name: "site", link: "https://github.com/dmytrodanylyk"}
+-
+ id: 9
+ name: "Nathan"
+ surname: "Pereira"
+ company: "Datadog"
+ bio: '<p></p>'
+ thumbnailUrl: nathanpereira.jpg
+ rockstar: true
+ social:
+     #    - {name: "linkedin", link: "https://www.linkedin.com/in/nicoleblackbeer/"}
+     #    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
+     #    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
+     #    - {name: "github", link: "https://github.com/dmytrodanylyk"}
+     #    - {name: "site", link: "https://github.com/dmytrodanylyk"}
+-
+ id: 10
+ name: "Breno"
+ surname: "Lima"
+ company: "Datadog"
+ bio: '<p>Head de serviços e governança desenvolvendo equipes de alta performance, atuando a mais de 20 anos como instrutor, consultor, auditor e palestrante no setor de serviços e governança. Desenvolvimento de projetos de sucesso e mais de 1000 profissionais treinados em melhores práticas utilizando "framework" líder de mercado como diretores, gerentes e líderes no Brasil e no exterior. Comprometimento e motivação de pessoas são palavras chaves para otimizar resultados.</p>'
+ thumbnailUrl: brenolima.jpg
+ rockstar: true
+ social:
+     #    - {name: "linkedin", link: "https://www.linkedin.com/in/nicoleblackbeer/"}
+     #    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
+     #    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
+     #    - {name: "github", link: "https://github.com/dmytrodanylyk"}
+     #    - {name: "site", link: "https://github.com/dmytrodanylyk"}
 #-
 #  id: 9
 #  name: "Carlos"

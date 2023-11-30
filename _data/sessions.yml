@@ -6,7 +6,7 @@
   description: "Encerramento e foto oficial do evento"
 -
   id: 207
-  title: "Credenciamento"
+  title: "Credenciamento & Abertura"
   place: "Auditório"
   service: true
   description: ""
@@ -105,6 +105,25 @@
   description: ""
   subtype: presentation
   speakers: [1]
+  language: pt-br
+  #  complexity: ""
+  #  video: ""
+-
+  id: 009
+  title: "Como garantir a maturidade dos serviços de TI de forma simples e alto valor"
+  description: ""
+  subtype: presentation
+  speakers: [9,10]
+  language: pt-br
+  #  complexity: ""
+  #  video: ""
+
+-
+  id: 010
+  title: "Observabilidade com Datadog"
+  description: ""
+  subtype: presentation
+  speakers: [9,10]
   language: pt-br
   #  complexity: ""
   #  video: ""

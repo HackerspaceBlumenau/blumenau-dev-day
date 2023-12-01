@@ -114,8 +114,8 @@
  id: 9
  name: "Nathan"
  surname: "Pereira"
- company: "Datadog"
- bio: '<p></p>'
+ company: "Delfia/Datadog"
+ bio: '<p>Profissional com experiência desde 2018 em APM, Cloud e Observability, especializado no uso de ferramentas como Delfia/Datadog e AppDynamics. A partir de 2020, concentra-se em Pré-Vendas, conduzindo Provas de Conceito para entender as necessidades dos clientes e apresentar soluções precisas. Com foco em DevOps e Cloud Computing, mantém-se atualizado e desenvolve habilidades em automação com Python e Java para criar soluções personalizadas. Comprometido com a transformação digital, busca oferecer suporte excepcional às equipes de TI e negócios, destacando-se pela constante busca por inovação em monitoramento e tecnologias emergentes.</p>'
  thumbnailUrl: nathanpereira.jpg
  rockstar: true
  social:
@@ -128,7 +128,7 @@
  id: 10
  name: "Breno"
  surname: "Lima"
- company: "Datadog"
+ company: "Delfia/Datadog"
  bio: '<p>Head de serviços e governança desenvolvendo equipes de alta performance, atuando a mais de 20 anos como instrutor, consultor, auditor e palestrante no setor de serviços e governança. Desenvolvimento de projetos de sucesso e mais de 1000 profissionais treinados em melhores práticas utilizando "framework" líder de mercado como diretores, gerentes e líderes no Brasil e no exterior. Comprometimento e motivação de pessoas são palavras chaves para otimizar resultados.</p>'
  thumbnailUrl: brenolima.jpg
  rockstar: true

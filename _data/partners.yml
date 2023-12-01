@@ -1,6 +1,7 @@
 -
   group: "Apoio"
   elements:
+    - {name: "ABLUCAN", description: "ABLUCAN - Associação Blumenauense na Luta Contra o Câncer", link: "http://ablucan.org.br/", imageUrl: "ablucan.png"}
     - {name: "FURB", description: "Universidade Regional de Blumenau", link: "http://www.furb.br/", imageUrl: "furb.png"}
     - {name: "Proway", description: "ProWay - Treinamentos em Tecnologia - Blumenau/SC", link: "https://www.proway.com.br/", imageUrl: "proway.png"}
     - {name: "Blusoft", description: "Polo Tecnológico de Informação e Comunicação da Região de Blumenau", link: "https://blusoft.org.br/", imageUrl: "blusoft.png"}

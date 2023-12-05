@@ -65,10 +65,10 @@
   #  video: ""
 -
   id: 004
-  title: "Power BI"
+  title: ""
   description: ""
   subtype: presentation
-  speakers: [8]
+  speakers: []
   language: pt-br
   #  complexity: ""
   #  video: ""
@@ -83,8 +83,8 @@
   #  video: ""
 -
   id: 006
-  title: "Segurança"
-  description: ""
+  title: "Do SQLi ao Reverse Shell"
+  description: "Invadindo servidores através de aplicações vulneráveis"
   subtype: presentation
   speakers: [5]
   language: pt-br

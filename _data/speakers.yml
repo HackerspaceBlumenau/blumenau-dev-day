@@ -96,20 +96,20 @@
      #    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
      #    - {name: "github", link: "https://github.com/dmytrodanylyk"}
      #    - {name: "site", link: "https://github.com/dmytrodanylyk"}
--
- id: 8
- name: "Nicole"
- surname: "Correa"
- company: "Black Beer BI"
- bio: '<p>Nicole Correa, nascida na capital brasileira da cerveja,  Blumenau, Santa Catarina, é uma profissional apaixonada pelo mundo das cervejas.</p><p>Graduada em Processos Gerenciais, possui uma pós-graduação em Gestão Comercial e Inteligência de Mercado, além de cursos de Análise de Dados e Gestão de Microcervejarias.</p><p>Com uma trajetória de sete anos no mercado cervejeiro, Nicole é atualmente a proprietária da empresa Black Beer BI, que tem impulsionado o sucesso de microcervejarias e negócios relacionados ao universo cervejeiro. Sua empresa se destaca por sua especialização em marketing digital, estratégias de vendas e análise de dados.</p>'
- thumbnailUrl: nicolecorrea.jpg
- rockstar: true
- social:
-   - {name: "linkedin", link: "https://www.linkedin.com/in/nicoleblackbeer/"}
-     #    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-     #    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-     #    - {name: "github", link: "https://github.com/dmytrodanylyk"}
-     #    - {name: "site", link: "https://github.com/dmytrodanylyk"}
+# -
+#  id: 8
+#  name: "Nicole"
+#  surname: "Correa"
+#  company: "Black Beer BI"
+#  bio: '<p>Nicole Correa, nascida na capital brasileira da cerveja,  Blumenau, Santa Catarina, é uma profissional apaixonada pelo mundo das cervejas.</p><p>Graduada em Processos Gerenciais, possui uma pós-graduação em Gestão Comercial e Inteligência de Mercado, além de cursos de Análise de Dados e Gestão de Microcervejarias.</p><p>Com uma trajetória de sete anos no mercado cervejeiro, Nicole é atualmente a proprietária da empresa Black Beer BI, que tem impulsionado o sucesso de microcervejarias e negócios relacionados ao universo cervejeiro. Sua empresa se destaca por sua especialização em marketing digital, estratégias de vendas e análise de dados.</p>'
+#  thumbnailUrl: nicolecorrea.jpg
+#  rockstar: true
+#  social:
+#    - {name: "linkedin", link: "https://www.linkedin.com/in/nicoleblackbeer/"}
+#      #    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
+#      #    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
+#      #    - {name: "github", link: "https://github.com/dmytrodanylyk"}
+#      #    - {name: "site", link: "https://github.com/dmytrodanylyk"}
 -
  id: 9
  name: "Nathan"

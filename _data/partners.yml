@@ -10,6 +10,5 @@
     - {name: "Jusbrasil", description: "Informação Jurídica que Transforma", link: "https://www.jusbrasil.com.br", imageUrl: "jusbrasil.png"}
     - {name: "Thithi Galdinos", description: "Head de eventos de tecnologia, inovação, investimentos e startups / Gestora de ecossistemas de inovação. Líder de comunidade de startups @eurovalley", link: "https://www.instagram.com/thithigaldinos", imageUrl: "thithigaldinos.png"}
     - {name: "Paytrack", description: "Plataforma all-in-one para gestão de despesas e viagens corporativas.", link: "https://paytrack.com.br", imageUrl: "paytrack.png"}
-    - {name: "Datadog", description: "Modern monitoring & security. See inside any stack, any app, at any scale, anywhere.", link: "https://www.datadoghq.com/", imageUrl: "datadog.png"}
     - {name: "Delfia", description: "Somos delfia, curadoria de jornadas digitais.", link: "https://delfia.tech/", imageUrl: "delfia.jpg"}
     - {name: "Blunix", description: "Blunix Tecnologia, oferecendo soluções com confiabilidade, segurança e agilidade.", link: "https://www.blunix.com.br/", imageUrl: "blunix.jpg"}

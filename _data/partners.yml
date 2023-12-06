@@ -12,3 +12,4 @@
     - {name: "Paytrack", description: "Plataforma all-in-one para gestão de despesas e viagens corporativas.", link: "https://paytrack.com.br", imageUrl: "paytrack.png"}
     - {name: "Datadog", description: "Modern monitoring & security. See inside any stack, any app, at any scale, anywhere.", link: "https://www.datadoghq.com/", imageUrl: "datadog.png"}
     - {name: "Delfia", description: "Somos delfia, curadoria de jornadas digitais.", link: "https://delfia.tech/", imageUrl: "delfia.jpg"}
+    - {name: "Blunix", description: "Blunix Tecnologia, oferecendo soluções com confiabilidade, segurança e agilidade.", link: "https://www.blunix.com.br/", imageUrl: "blunix.jpg"}

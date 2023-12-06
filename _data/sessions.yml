@@ -65,10 +65,10 @@
   #  video: ""
 -
   id: 004
-  title: ""
+  title: "Como usar inteligência artificial sem perder para o Hype"
   description: ""
   subtype: presentation
-  speakers: []
+  speakers: [1]
   language: pt-br
   #  complexity: ""
   #  video: ""
@@ -101,7 +101,7 @@
   #  video: ""
 -
   id: 008
-  title: "Keynote"
+  title: "Como desenvolver competências para avançar na carreira, sem perder tempo com \"o que não faz diferença\""
   description: ""
   subtype: presentation
   speakers: [1]
